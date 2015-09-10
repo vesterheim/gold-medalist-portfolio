@@ -1,0 +1,5 @@
+{% for medal in include_medals %}
+	{% if forloop.first != true %}{% if forloop.length > 2 %}{% assign medals = medals | append: '; ' %}{% endif %}{% endif %}
+	{% if forloop.last %}{% if forloop.length > 1 %}{% assign medals = medals | append: ' and ' %}{% endif %}{% endif %}	
+	{% assign medals = medals | append: medal.discipline | append: ', ' | append: medal.year %}
+{% endfor %}

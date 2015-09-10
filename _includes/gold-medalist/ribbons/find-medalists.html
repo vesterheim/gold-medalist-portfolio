@@ -1,0 +1,10 @@
+{% capture find-medalists__cache %}
+{% assign medalists = '' | split: '' %}
+{% for artist in include.artists %}
+	{% assign has_ribboned = artist.ribbons |  where: 'year', include.year | size %}
+	{% assign has_photos = artist.photos | size %}
+	{% if has_ribboned > 0 and has_photos > 0 %}
+		{% assign medalists = medalists | push: artist %}
+	{% endif %}
+{% endfor %}
+{% endcapture %}{% assign find-medalists__cache = nil %}

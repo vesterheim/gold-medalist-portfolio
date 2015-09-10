@@ -1,0 +1,32 @@
+---
+layout: page
+title: Gold Medalist Disciplines
+short_title: Discipline
+subtitle: ~
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+
+navigation:
+  order: 20
+
+pagelist:
+  order:         # Defaults to navigation order  
+  image: ~
+  alt:
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description 
+---
+{% assign disciplines = 'Knifemaking|Rosemaling|Weaving|Woodworking' | split: '|' %}
+{% for discipline in disciplines %}
+	{% if forloop.first %}
+	<ul>
+	{% endif %}
+	{% include gold-medalist/disciplines/find-medalists.html artists=site.artists discipline=discipline %}
+		<li><a href="{{ discipline | slugify | append: '/' | prepend: '/disciplines/' | prepend: site.baseurl }}">{{ discipline }}</a> ({{ medalists.size }})</li>
+	{% if forloop.last %}
+	</ul>
+	<p>Total: {{ site.artists.size }}</p>
+	{% endif %}	
+{% endfor %}

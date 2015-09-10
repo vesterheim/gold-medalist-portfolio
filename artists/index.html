@@ -1,0 +1,45 @@
+---
+layout: page
+title: Gold Medalist Name
+short_title: Name
+meta_description: ~
+hero:
+  image: ~
+  alt: ~
+  caption: ~
+related:
+
+navigation:
+  order: 10
+  
+pagelist:
+  order:         # Defaults to navigation order  
+  image: ~
+  alt:
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description
+---
+{% comment %}
+{% include gold-medalist/list-artists.html artists=site.artists %}
+{% endcomment %}
+{% assign letters = '' | split: '' %}
+{% for artist in site.artists %}
+  {% assign first_letter_of_last_name = artist.last_name | split:'' | first | downcase %}
+    {% unless letters contains first_letter_of_last_name %}
+      {% assign letters = letters | push: first_letter_of_last_name %}
+    {% endunless %}
+{% endfor %}
+{% assign letters = letters | sort %}
+{% for letter in letters %}
+  {% if forloop.first %}
+  <ul>
+  {% endif %}
+  {% include gold-medalist/letters/find-medalists.html artists=site.artists letter=letter %}
+  <li><a href="{{ letter | slugify | append: '/' | prepend: '/artists/' | prepend: site.baseurl }}">{{ letter | upcase }}</a> ({{ medalists.size }})</li>
+  {% if forloop.last %}
+  </ul>
+  <p>Total: {{ site.artists.size }}</p>
+  {% endif %}
+{% endfor %}

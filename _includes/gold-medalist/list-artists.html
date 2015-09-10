@@ -1,0 +1,33 @@
+{% for artist in include.artists | sort: 'title' %}
+	{% if forloop.first %}
+	{% endif %}
+		<article class="layout__media page-listing"> 
+			<a class="page-listing__lining page-listing__lining--padding-bottom" href="{{ artist.url | prepend: site.baseurl }}">
+				<div class="layout__media__image page-listing__image page-listing__image--one-third">
+					<div class="page-listing__image__lining">
+	{% if artist.pagelist.image %}					
+						{% picture tile {{ artist.pagelist.image }} alt="{{ artist.pagelist.alt }}" %}
+	{% else %}
+						{% picture tile shims/fpo_4x3-1280.png alt="{{ artist.pagelist.alt }}" %}
+	{% endif %}
+					</div>
+				</div>
+				<div class="layout__media__body page-listing__body page-listing__body--constrained">
+					<header class="page-listing__header">
+						<h1 class="title page-listing__title">{{ artist.title }}</h1> 
+						<div class="subtitle page-listing__subtitle">Gold {% include pluralize.html number=artist.medals.size singular="Medal" %} in {% include gold-medalist/view-medals.html medals=artist.medals %}</div>
+					</header>
+					<div class="summary text main-content page-listing__summary">
+					{% include gold-medalist/view-residence.html city=artist.city state=artist.state prepend='<div><strong>Residence at Time of Award:</strong> ' append='</div>'%}
+{% comment %}					
+					{% include gold-medalist/view-ribbons.html ribbons=artist.ribbons prepend='<div><strong>Ribbons Won:</strong> ' append='</div>'%}
+{% endcomment %}
+					</div>
+					<p class="more">Read Artist Profile</p>
+				</div> 
+			</a> 
+		</article>
+	{% if forloop.last %}
+	<p>Total: {{ include.artists.size }}</p>
+	{% endif %}
+{% endfor %}

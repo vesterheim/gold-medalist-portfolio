@@ -1,0 +1,8 @@
+{% capture picture_capture %}{% picture full {{ photo.src }} %}{% endcapture %}
+{% assign picture_capture_array  = picture_capture | newline_to_br | strip_newlines | split: '<br />' %}
+{% assign picture_capture_string = picture_capture_array[-2] %}
+{% assign picture_capture_string = picture_capture_string | remove: ' ' | remove_first: '<imgsrc="' | remove_first: '"/>' | slice: 9 %}
+{% assign picture_capture_size_array = picture_capture_string | split: '-' %}
+{% assign picture_capture_size_array = picture_capture_size_array[-2] | split: 'by'  %}
+{{ picture_capture_string | debug }}
+{{ picture_capture_size_array | debug }}

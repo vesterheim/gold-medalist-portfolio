@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+{% include global/head.html %}
+<body{% if page.css_theme %} class="{{ page.css_theme }}"{% endif %}>
+
+    <div class="layout__body">
+
+{% include global/header.html %}
+{% include navigation/menu-button.html%} 
+
+{{ content }}
+
+{% include global/navigation.html %} 
+
+{% include global/footer.html %}
+    </div>
+{% include global/javascript--foot.html %}
+{% if site.production != true %}{{ site.time | date_to_rfc822 }}{% endif %}
+</body>
+</html>

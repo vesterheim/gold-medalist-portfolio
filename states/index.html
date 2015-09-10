@@ -1,0 +1,31 @@
+---
+layout: page
+title: "Gold Medalist States"
+short_title: "State"
+subtitle: ~
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+
+navigation:
+  order: 30
+
+pagelist:
+  order:         # Defaults to navigation order  
+  image: ~
+  alt:
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description 
+---
+{% assign states = site.artists | group_by: 'state' | sort: 'name' %}
+{% for state in states %}
+	{% if forloop.first %}
+	<ul>
+	{% endif %}
+	<li><a href="{{ state.name | slugify | append: '/' | prepend: '/states/' | prepend: site.baseurl }}">{{ state.name }}</a> ({{ state.items.size }})</li>
+	{% if forloop.last %}
+	</ul>
+	<p>Total: {{ site.artists.size }}</p>
+	{% endif %}
+{% endfor %}

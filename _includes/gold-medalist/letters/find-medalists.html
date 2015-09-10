@@ -1,0 +1,12 @@
+{% capture find-medalists__cache %}
+{% assign medalists = '' | split: '' %}
+{% for artist in include.artists %}
+	{% assign first_letter_of_last_name = artist.last_name | split:'' | first | downcase %}
+	{% assign first_letter = include.letter | downcase %}
+	{% if first_letter_of_last_name == first_letter %}
+		{% assign medalists = medalists | push: artist %}
+	{% endif %}
+{% endfor %}
+{% assign first_letter = nil %}
+{% assign first_letter_of_last_name = nil %}
+{% endcapture %}{% assign find-medalists__cache = nil %}

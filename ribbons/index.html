@@ -1,0 +1,43 @@
+---
+layout: page
+title: "Gold Medalist Ribbons"
+short_title: "Ribbons"
+subtitle: ~
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+
+navigation:
+  order: 300
+
+pagelist:
+  order:         # Defaults to navigation order  
+  image: ~
+  alt:
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description 
+---
+{% assign years = '' | split: '' %}
+{% for artist in site.artists %}
+	{% assign has_photos = artist.photos | size %}
+	{% for ribbon in artist.ribbons %}
+		{% unless ribbon.year == nil or years contains ribbon.year %}
+			{% if has_photos > 0 %}
+				{% assign years = years | push: ribbon.year %}
+			{% endif %}
+		{% endunless %}
+	{% endfor %}
+{% endfor %}
+{% assign years = years | sort %}
+{% for year in years %}
+	{% if forloop.first %}
+	<ul>
+	{% endif %}
+	{% include gold-medalist/ribbons/find-medalists.html artists=site.artists year=year %}
+		<li><a href="{{ year | append: '/' | prepend: '/ribbons/' | prepend: site.baseurl }}">{{ year }}</a> ({{ medalists.size }})</li>
+	{% if forloop.last %}
+	</ul>
+	{% endif %}	
+{% endfor %}
+

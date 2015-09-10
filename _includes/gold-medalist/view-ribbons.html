@@ -1,0 +1,24 @@
+{% capture view_ribbons__cache %}
+{% assign view_ribbons__array = '' | split: '' %}
+{% for ribbon in include.ribbons | sort: 'year', 'color' %}
+	{% assign view_ribbons__string = '' %}
+	{% if ribbon.color %}
+		{% assign view_ribbons__string = view_ribbons__string | append: ribbon.color | append: ' ribbon' %}
+	{% endif %}
+	{% if ribbon.item %}
+		{% if view_ribbons__string.size > 0 %}
+			{% assign view_ribbons__string = view_ribbons__string | append: ' for' %}
+		{% endif %}
+		{% assign view_ribbons__string = view_ribbons__string | append: ' ' | append: ribbon.item %}
+	{% endif %}
+	{% if ribbon.year %}
+		{% if view_ribbons__string.size > 0 %}
+			{% assign view_ribbons__string = view_ribbons__string | append: ' (' | append: ribbon.year | append: ')' %}
+		{% else %}
+			{% assign view_ribbons__string = view_ribbons__string | append: ribbon.year %}
+		{% endif %}
+	{% endif %}
+	{% assign view_ribbons__array = view_ribbons__array | push: view_ribbons__string %}
+{% endfor %}
+{% assign view_ribbons__string = nil %}
+{% endcapture %}{% assign view_ribbons__cache = nil %}{% if include.prepend and view_ribbons__array.size > 0 %}{{ include.prepend }}{% endif %}{{ view_ribbons__array | array_to_sentence_string }}{% if include.append and view_ribbons__array.size > 0 %}{{ include.append }}{% endif %}{% assign view_ribbons__array = nil %}

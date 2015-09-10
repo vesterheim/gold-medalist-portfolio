@@ -1,0 +1,40 @@
+---
+layout: page
+title: Gold Medalist Years
+short_title: Year
+subtitle: ~
+meta_title:        # Appears on bookmarks, search results, etc...
+meta_description:  # Used in HTML head and as the description for some search engines
+
+navigation:
+  order: 40
+
+pagelist:
+  order:         # Defaults to navigation order  
+  image: ~
+  alt:
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description 
+---
+{% assign years = '' | split: '' %}
+{% for artist in site.artists %}
+	{% for medal in artist.medals %}
+		{% unless years contains medal.year %}
+			{% assign years = years | push: medal.year %}
+		{% endunless %}
+	{% endfor %}
+{% endfor %}
+{% assign years = years | sort %}
+{% for year in years %}
+	{% if forloop.first %}
+	<ul>
+	{% endif %}
+	{% include gold-medalist/years/find-medalists.html artists=site.artists year=year %}
+		<li><a href="{{ year | append: '/' | prepend: '/years/' | prepend: site.baseurl }}">{{ year }}</a> ({{ medalists.size }})</li>
+	{% if forloop.last %}
+	</ul>
+	<p>Total: {{ site.artists.size }}</p>
+	{% endif %}	
+{% endfor %}

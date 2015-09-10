@@ -1,0 +1,18 @@
+{% capture view_residence__cache %}
+{% assign view_residence__output = '' %}
+{% if include.city %}
+	{% assign view_residence__output = view_residence__output | append: include.city %}
+{% endif %}
+{% if include.city and include.state %}
+	{% assign view_residence__output = view_residence__output | append: ', ' %}
+{% endif %}
+{% if include.state %}
+	{% assign view_residence__output = view_residence__output | append: include.state %}
+{% endif %}
+{% if include.prepend and view_residence__output.size > 0 %}
+	{% assign view_residence__output = view_residence__output | prepend: include.prepend %}
+{% endif %}
+{% if include.append and view_residence__output.size > 0 %}
+	{% assign view_residence__output = view_residence__output | append: include.append %}
+{% endif %}
+{% endcapture %}{% assign view_residence__cache = nil %}{{ view_residence__output }}{% assign view_residence__output = nil %}

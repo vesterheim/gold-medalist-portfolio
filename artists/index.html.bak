@@ -1,0 +1,61 @@
+---
+published: false
+layout: page
+title: Gold Medalist Name
+short_title: Name
+meta_description: ~
+hero:
+  image: ~
+  alt: ~
+  caption: ~
+related:
+
+navigation:
+  order: 10
+  
+pagelist:
+  order:         # Defaults to navigation order  
+  image: ~
+  alt:
+  caption:
+  title:         # Defaults to navigation title
+  subtitle:      # Defaults to page subtitle
+  teaser:        # Defaults to page meta-description
+---
+{% for artist in site.artists %}{% capture cache %}
+	{% assign include_medals = nil %}
+	{% assign include_city = nil %}
+	{% assign include_state = nil %}
+	{% assign include_ribbons = nil %}
+	{% assign photo = nil %}
+	{% assign medals_label = nil %}
+	{% assign medals = nil %}
+	{% assign residence = nil %}
+	{% assign ribbons = nil %}
+
+	{% if artist.photos %}
+		{% assign photo = artist.photos | first %}
+	{% elsif artist.headshot %}
+		{% assign photo = artist.headshot %}
+	{% endif %}
+
+	{% assign include_medals = artist.medals %}
+	{% include gold-medalist/get-medals-label.html %} 
+	{% include gold-medalist/get-medals.html %} 
+	{% assign include_city = artist.city %}
+	{% assign include_state = artist.state %}
+	{% include gold-medalist/get-residence.html %}
+	{% assign include_ribbons = artist.ribbons %}
+	{% include gold-medalist/get-ribbons.html %}
+
+	{% endcapture %}{% assign capture = nil %}
+
+	{{ artist.title }}<br />
+	{{ medals_label }} in: {{ medals }}<br />
+	Residence at Time of Award: {{ residence }}<br />
+	{% if ribbons %}
+		Ribbons Won: {{ ribbons }}<br />
+	{% endif %}
+	<a href="{{ artist.url }}">{{ artist.url }}</a>
+	<hr />
+{% endfor %}

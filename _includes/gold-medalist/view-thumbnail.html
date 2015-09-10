@@ -1,0 +1,7 @@
+{% include gold-medalist/get-full-size-img-src-and-dimensions.html src=include.src %}
+  	<figure class="image-grid__item" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    	<a href="{{ img_src }}" itemprop="contentUrl" data-size="{{ img_dimensions | join: 'x' }}" data-index="{{ include.index0 }}">
+     		{% picture fourth {{ include.src }} alt="{{ include.caption }}" class="image-grid__image"  itemprop="thumbnail" %}
+     		<figcaption class="caption" itemprop="caption description">{{ include.caption }}</figcaption>
+  		</a>
+  	</figure>

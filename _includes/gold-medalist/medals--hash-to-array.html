@@ -1,0 +1,7 @@
+{% capture medals_array__cache %}
+{% assign medals_array = '' %}
+{% for medal in include.medals %}
+{% assign medals_array = medals_array | append: medal.discipline | append: ' (' | append: medal.year | append: ')|||||' %}
+{% endfor %}
+{% assign medals_array = medals_array | split: '|||||' %}
+{% endcapture %}{% assign medals_array__cache = nil %}

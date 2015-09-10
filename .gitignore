@@ -1,0 +1,16 @@
+.DS_Store
+gm.pl
+Gruntfile.js*
+package.json
+node_modules
+.editorconfig
+.jshintrc
+.csslintrc
+.jekyll-page-collections
+npm-debug.log
+/_copy/
+/_dist/
+/_production/
+/_stage/
+/_test/
+/_site/

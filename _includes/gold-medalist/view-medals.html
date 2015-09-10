@@ -1,0 +1,8 @@
+{% capture view_medals__cache %}
+{% assign view_medals__array = '' | split: '' %}
+{% for medal in include.medals | sort: 'year', 'discipline' %}
+{% assign view_medals__string = medal.discipline | append: ' (' | append: medal.year | append: ')' %}
+{% assign view_medals__array = view_medals__array | push: view_medals__string %}
+{% endfor %}
+{% assign view_medals__string = nil %}
+{% endcapture %}{% assign view_medals__cache = nil %}{{ view_medals__array | array_to_sentence_string }}{% assign view_medals__array = nil %}

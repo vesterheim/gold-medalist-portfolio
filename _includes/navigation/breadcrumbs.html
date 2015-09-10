@@ -1,0 +1,70 @@
+{% capture cache %}
+
+{% comment %}
+{% assign page_current = site.data.auto_nav | where: 'url', page.url | first %}
+{% endcomment %}
+{% assign page_current = site.data.auto_nav_hash[page.url] %}
+{% comment %}
+{% assign output = '<div class="layout__breadcrumbs__lining  layout__main--constrained__padding">' %}
+{% endcomment %}
+
+{% assign output = output | append: '<ul class="breadcrumbs" id="breadcrumbs">' %}
+{% comment %}{% assign output = output | append: '<li class="breadcrumbs__item  breadcrumbs__item--first"><a class="breadcrumbs__link" href="//vesterheim.org/">Home</a></li>' %}{% endcomment %}
+{% assign item_classes_default = 'breadcrumbs__item' %}
+{% assign link_classes_default = 'breadcrumbs__link' %}
+{% if include.ancestors.size > 0 %}
+	{% assign ancestors = include.ancestors %}
+{% else %}
+	{% assign ancestors = page_current.ancestors %}
+{% endif %}
+{% for ancestor in ancestors reversed %}
+	{% if ancestor == '/' %}
+		{% assign title = 'Gold Medalist Portfolio' %}
+		{% assign url = '/' %}	
+	{% elsif ancestor == '//vesterheim.org/' %}
+		{% assign title = 'Home' %}
+		{% assign url = '//vesterheim.org/' %}	
+	{% else %}
+		{% comment %}
+		{% assign node = site.data.auto_nav | where: 'url', ancestor | first %}
+		{% endcomment %}
+		{% assign node = site.data.auto_nav_hash[ancestor] %}
+		{% assign title = node.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines %}
+		{% assign url = node.url %}
+	{% endif %}
+	{% assign item_classes = item_classes_default %}
+	{% assign link_classes = link_classes_default %}
+
+	{% if forloop.first %}
+		{% assign item_classes = item_classes | append: '  breadcrumbs__item--first' %}
+	{% endif %}
+
+	{% if forloop.last %}
+		{% assign item_classes = item_classes | append: '  breadcrumbs__item--penultimate' %}
+	{% endif %}
+	{% capture item %}<li class="{{ item_classes }}"><a class="{{ link_classes }}" href="{{ url }}"{{ target }}>{{ title }}</a></li>{% endcapture %}
+	{% assign output = output | append: item %}
+	{% assign title = nil %}
+	{% assign url = nil %}
+{% endfor %}
+{% assign item_classes = item_classes_default %}
+{% assign link_classes = link_classes_default %}
+{% assign item_classes = item_classes | append: '  breadcrumbs__item--last' %}
+{% capture item %}<li class="{{ item_classes }}">{{ page.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}</li>{% endcapture %}
+{% assign output = output | append: item %}
+{% assign output = output | append: '</ul>' %}
+
+{% comment %}
+{% assign output = output | append: '</div>' %}
+{% endcomment %}
+
+{% assign title = nil %}
+{% assign url = nil %}
+{% assign item = nil %}
+{% assign item_classes_default = nil %}
+{% assign link_classes_default = nil %}
+{% assign item_classes = nil %}
+{% assign link_classes = nil %}
+{% assign page_current = nil %}
+
+{% endcapture %}{{ output }}{% assign output = nil %}{% assign cache = nil %}

@@ -1,0 +1,29 @@
+---
+layout: base
+---
+        <div class="layout__page  layout__page--padded--m-xl  layout__auxilary--constrained">
+       
+
+            <div class="layout__main__wrapper  layout__page--padded--xs-m">
+                <div class="layout__main">
+                    <div class="main-content">
+{% include components/headline-group.html %}
+{% include images/full-width.html %}
+                        <div class="layout__main--constrained  text">
+{% include images/lead.html %}
+{{ content }}
+                        </div>
+{% if page.show_pagelist_menu %}{% include lists/child-pages--tiles.html %}{% endif %}                      
+{% if page.show_social_sharing_bar %}<div class="layout__main--constrained">{% include components/social-sharing-bar.html %}</div>{% endif %}
+{% if page.related %}{% include lists/related-pages.html %}{% endif %}
+                    </div>
+                </div>
+            </div>
+
+            <div class="auxiliary layout__auxiliary">
+                <div class="layout__auxiliary__lining">
+{% include layout/auxiliary.html %}
+                </div>
+            </div>
+
+        </div>

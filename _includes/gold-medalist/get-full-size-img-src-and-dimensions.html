@@ -1,0 +1,9 @@
+{% capture picture_capture %}{% picture full {{ include.src }} %}{% endcapture %}{% capture picture_capture_cache %}
+{% assign picture_capture_array  = picture_capture | newline_to_br | strip_newlines | split: '<br />' %}
+{% assign img_src = picture_capture_array[-2] %}
+{% assign img_src = img_src | remove: ' ' | remove_first: '<imgsrc="' | remove_first: '"/>' %}
+{% assign img_url_array = img_src | split: '-' %}
+{% assign img_dimensions = img_url_array[-2] | split: 'by'  %}
+{% assign picture_capture = nil %}
+{% assign picture_capture_array = nil %}
+{% endcapture %}{% assign picture_capture_cache = nil %}

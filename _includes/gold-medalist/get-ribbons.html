@@ -1,0 +1,10 @@
+{% if include_ribbons %}
+	{% for ribbon in include_ribbons %}
+		{% if forloop.first != true %}{% if forloop.length > 2 %}{% assign ribbons = ribbons | append: ', ' %}{% endif %}{% endif %}
+		{% if forloop.last %}{% if forloop.length > 1 %}{% assign ribbons = ribbons | append: ' and ' %}{% endif %}{% endif %}
+		{% assign ribbons = ribbons | append: ribbon.year | append: ' ' | append: ribbon.color | append: ' ribbon' %}
+		{% if ribbon.item %}
+			{% assign ribbons = ribbons | append: ' for ' | append: ribbon.item %}
+		{% endif %}
+	{% endfor %}
+{% endif %}
