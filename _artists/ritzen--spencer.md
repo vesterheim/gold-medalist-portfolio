@@ -27,11 +27,11 @@ headshot:
   src: gold-medalist/ritzen--spencer/ritzen--spencer.jpg
   caption: Spencer Ritzen, 2008
 photos:
-  - src: gold-medalist/ritzen--spencer/Ritzen_Spencer_photo2.png
+  - src: gold-medalist/ritzen--spencer/ritzen-red-2002.jpg
     caption: Knife with reindeer horn handle © 2002 Spencer Ritzen
-  - src: gold-medalist/ritzen--spencer/Ritzen_Spencer_photo3.png
-    caption: Dress knife © 2006 Spencer Ritzen
-  - src: gold-medalist/ritzen--spencer/Ritzen_Spencer_photo4.png
+  - src: gold-medalist/ritzen--spencer/Ritzen-White-2005.jpg
+    caption: Silver Knife with monogram
+  - src: gold-medalist/ritzen--spencer/Ritzen-red-2007.jpg
     caption: Silver fish-fillet knife © 2007 Spencer Ritzen
 
 navigation:

@@ -30,8 +30,12 @@ headshot:
   src: gold-medalist/schmidt--elaine/schmidt--elaine.jpg
   caption: Elaine Schmidt, 2008
 photos:
-  - src: gold-medalist/schmidt--elaine/Schmidt_Elaine_photo2.png
-    caption: Bowl with Proverbs © 1990 Elaine Schmidt
+  - src: gold-medalist/schmidt--elaine/schmidt-bowl-1990-white.jpg
+    caption:
+  - src: gold-medalist/schmidt--elaine/schmidt-red-1973.jpg
+    caption:
+  - src: gold-medalist/schmidt--elaine/schmidt-tilt-top-table-and-chair-1987-white.jpg
+    caption:
 
 navigation:
   exclude: true

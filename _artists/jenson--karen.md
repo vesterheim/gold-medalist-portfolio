@@ -30,12 +30,12 @@ headshot:
   src: gold-medalist/jenson--karen/jenson--karen.jpg
   caption: Karen Jenson, circa 1980
 photos:
-  - src: gold-medalist/jenson--karen/Jenson_Karen_photo2.png
+  - src: gold-medalist/jenson--karen/K.Jenson-red-1977.jpg
     caption: Trunk © 1978 Karen Jenson
   - src: gold-medalist/jenson--karen/Jenson_Karen_photo3.png
     caption: Kubbestol © 1979 Karen Jenson
-  - src: gold-medalist/jenson--karen/Jenson_Karen_photo4.png
-    caption: Grandfather clock (detail) © 1979 Karen Jenson
+  - src: gold-medalist/jenson--karen/K.Jenson-white-1976.jpg
+    caption:
 
 navigation:
   exclude: true

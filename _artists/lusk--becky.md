@@ -38,9 +38,9 @@ headshot:
 photos:
   - src: gold-medalist/lusk--becky/Lusk_Becky_photo2.png
     caption: "\"Goats-n-Girl\" figure © 1989 Becky Lusk"
-  - src: gold-medalist/lusk--becky/Lusk_Becky_photo3.png
-    caption: "\"Dreaming of the Open Seas\" figure © 1992 Bec"
-  - src: gold-medalist/lusk--becky/Lusk_Becky_photo4.png
+  - src: gold-medalist/lusk--becky/Lusk-White-plate-10th-NF.jpg
+    caption: 10th Nordic Fest Plate
+  - src: gold-medalist/lusk--becky/Lusk-1992-white.jpg
     caption: "\"Old Vagrant\" figure © 1992 Becky Lusk"
 
 navigation:

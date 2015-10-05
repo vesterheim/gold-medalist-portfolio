@@ -38,9 +38,9 @@ headshot:
 photos:
   - src: gold-medalist/morgan--nancy/Morgan_Nancy_photo2.png
     caption: Cheese box © 1983 Nancy Morgan
-  - src: gold-medalist/morgan--nancy/Morgan_Nancy_photo3.png
-    caption: Plate © 1986 Nancy Morgan
-  - src: gold-medalist/morgan--nancy/Morgan_Nancy_photo4.png
+  - src: gold-medalist/morgan--nancy/Nancy-Morgan-Red.jpg
+    caption:
+  - src: gold-medalist/morgan--nancy/Morgan-white-1990-chest.jpg
     caption: Trunk © 1990 Nancy Morgan
 
 navigation:

@@ -33,10 +33,10 @@ headshot:
   src: gold-medalist/wangsness--norma/wangsness--norma.jpg
   caption: Norma Wangsness, 2008
 photos:
-  - src: gold-medalist/wangsness--norma/Wangsness_Norma_photo2.png
-    caption: Trunk with ship © 1990 Norma Wangsness
-  - src: gold-medalist/wangsness--norma/Wangsness_Norma_photo3.png
-    caption: Trunk © 1996 Norma Wangsness
+  - src: gold-medalist/wangsness--norma/wangsness-white-1991-oval-box.jpg
+    caption: Oval Box © 1991 Norma Wangsness
+  - src: gold-medalist/wangsness--norma/wagsness-white.jpg
+    caption: Trunk © Norma Wangsness
   - src: gold-medalist/wangsness--norma/Wangsness_Norma_photo4.png
     caption: Kubbestol © 2000 Norma Wangsness
 

@@ -8,8 +8,8 @@ state: Minnesota
 medals: 
   - discipline: Rosemaling
     year: 2007
-occupation:
-life_dates:
+occupation: Minister
+life_dates: Born 1956 Minneapolis, Minnesota
 ribbons:
   - color: Red
     year: 1994
@@ -30,12 +30,12 @@ headshot:
   src: gold-medalist/goke--patti/goke--patti.jpg
   caption: Patti Goke, 2008
 photos:
-  - src: gold-medalist/goke--patti/Goke_Patti_photo2.png
+  - src: gold-medalist/goke--patti/Goke-blue-1995-picnic-basket.jpg
     caption: Picnic basket © 1995 Patti Goke
-  - src: gold-medalist/goke--patti/Goke_Patti_photo3.png
+  - src: gold-medalist/goke--patti/Goke-white-1998.jpg
     caption: Chair © 1998 Patti Goke
-  - src: gold-medalist/goke--patti/Goke_Patti_photo4.png
-    caption: Ale bowl © 2007 Patti Goke
+  - src: gold-medalist/goke--patti/Goke-Blue-2007.jpg
+    caption:
 
 navigation:
   exclude: true

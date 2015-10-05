@@ -31,8 +31,8 @@ photos:
     caption: Ale bowl © 1981 Enid Grindland
   - src: gold-medalist/grindland--enid/Grindland_Enid_photo3.png
     caption: Ale Bowl © 1981 Enid Grindland
-  - src: gold-medalist/grindland--enid/Grindland_Enid_photo4.png
-    caption: Ale bowl © 1981 Enid Grindland
+  - src: gold-medalist/grindland--enid/Grindland-blue-bowl-1987.jpg
+    caption: Bowl 1987
 
 navigation:
   exclude: true

@@ -33,12 +33,12 @@ headshot:
   src: gold-medalist/fritsch--rhoda/fritsch--rhoda.jpg
   caption: Rhoda Fritsch, 2008
 photos:
-  - src: gold-medalist/fritsch--rhoda/Fritsch_Rhoda_photo2.png
+  - src: gold-medalist/fritsch--rhoda/Fritsch-white-1988.jpg
     caption: Black bowl with Norwegian on rim © 1988 Rhoda Fritsch
-  - src: gold-medalist/fritsch--rhoda/Fritsch_Rhoda_photo3.png
-    caption: Bowl with carved handles © 1990 Rhoda Fritsch
-  - src: gold-medalist/fritsch--rhoda/Fritsch_Rhoda_photo4.png
-    caption: Large plate © 1991 Rhoda Fritsch
+  - src: gold-medalist/fritsch--rhoda/Fritsch-red-1991-cradle.jpg
+    caption: Baby Cradle © 1991 Rhoda Fritsch
+  - src: gold-medalist/fritsch--rhoda/Fritsch-1997-Blue.jpg
+    caption: Ale Jug © 1997 Rhoda Fritsch
 
 navigation:
   exclude: true

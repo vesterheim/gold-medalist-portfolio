@@ -22,6 +22,8 @@ ribbons:
     item: coverlet
 headshot:
 photos:
+  - src: gold-medalist/bugge--liv/Bugge-weaving-blue.jpg
+    caption: Wall Hanging
 
 navigation:
   exclude: true

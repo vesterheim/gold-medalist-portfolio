@@ -31,7 +31,10 @@ ribbons:
     item: "\"Garden Trellis\" wall hanging"
 headshot:
 photos:
-
+  - src: gold-medalist/blesi--jan/Blesi-blue.jpg
+    caption: Wall Hanging
+  - src: gold-medalist/blesi--jan/Blesi-white.jpg
+    caption: Wall Hanging
 navigation:
   exclude: true
 

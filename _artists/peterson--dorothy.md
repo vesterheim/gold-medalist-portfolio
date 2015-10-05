@@ -8,8 +8,8 @@ state: Michigan
 medals: 
   - discipline: Rosemaling
     year: 1975
-occupation:
-life_dates:
+occupation: Retired
+life_dates: Born 1929
 ribbons:
   - color: White
     year: 1969
@@ -30,11 +30,15 @@ ribbons:
   - color: White
     year: 1975
 headshot:
-  src: gold-medalist/peterson--dorothy/peterson--dorothy.jpg
-  caption: Dorothy Peterson, 2008
+  src: gold-medalist/peterson--dorothy/Dorothy-Peterson-headshot.jpg
+  caption: Dorothy Peterson
 photos:
   - src: gold-medalist/peterson--dorothy/Peterson_Dorothy_photo2.png
     caption: Plate, Vesterheim Collection 1978.105.001
+  - src: gold-medalist/peterson--dorothy/Peterson2.jpg
+    caption:
+  - src: gold-medalist/peterson--dorothy/Peterson1.jpg
+    caption:
 
 navigation:
   exclude: true

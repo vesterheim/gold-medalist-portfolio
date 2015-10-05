@@ -30,11 +30,11 @@ headshot:
   src: gold-medalist/wolter--barbara/wolter--barbara.jpg
   caption: Barb Wolter, 2008
 photos:
-  - src: gold-medalist/wolter--barbara/Wolter_Barb_photo2.png
+  - src: gold-medalist/wolter--barbara/wolter-white.jpg
     caption: Trunk © 1988 Barb Wolter
-  - src: gold-medalist/wolter--barbara/Wolter_Barb_photo3.png
+  - src: gold-medalist/wolter--barbara/Wolter_Barb_photo3.jpg
     caption: Trunk © 1990 Barb Wolter
-  - src: gold-medalist/wolter--barbara/Wolter_Barb_photo4.png
+  - src: gold-medalist/wolter--barbara/wolter-1991-blue.jpg
     caption: Trunk © 1991 Barb Wolter
 
 navigation:

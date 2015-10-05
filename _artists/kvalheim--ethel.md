@@ -9,7 +9,7 @@ medals:
   - discipline: Rosemaling
     year: 1969
 occupation:
-life_dates: Died 2011
+life_dates: Bron 1912 and Died 2011
 ribbons:
   - color: Blue
     year: 1967
@@ -43,3 +43,11 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
+
+Having been raised in a home with Norwegian parents who spoke Norwegian as well as English, followed many Norwegian traditions and served many Norwegian foods, it would only be natural for Ethel to be interested in Norwegian culture.
+Art was always important in her life, with her country school teacher recognizing her talent and urging her to peruse that talent.
+During difficult economic times, Ethel took notice of her neighbor, Per Lysne, selling woodenware he had rosemaled.  Although she never had lessons, she started rosemaling and supplementing the household income with her painting.
+This need for an income became a pleasure that she was able to enjoy into her mid 90s, when she then became too weary to paint.
+She often spoke about the years of her rosemaling being the best years of her life.  She truly enjoyed the organizational events as well as the people she met over the years.
+
+By Ethel Kvalheim's son Gary Kvalheim

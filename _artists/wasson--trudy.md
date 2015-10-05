@@ -27,11 +27,11 @@ headshot:
   src: gold-medalist/wasson--trudy/wasson--trudy.jpg
   caption: Trudy Wasson, 2008
 photos:
-  - src: gold-medalist/wasson--trudy/Wasson_Trudy_photo2.png
-    caption: Tilt-top table, Vesterheim collection 1978.104.001
-  - src: gold-medalist/wasson--trudy/Wasson_Trudy_photo3.png
-    caption: Bowl © 1976 Trudy Wasson
-  - src: gold-medalist/wasson--trudy/Wasson_Trudy_photo4.png
+  - src: gold-medalist/wasson--trudy/wasson-1975-blue.jpg
+    caption: Tilt-top table, 1975
+  - src: gold-medalist/wasson--trudy/wasson-red-1976.jpg
+    caption: Plate © 1976 Trudy Wasson
+  - src: gold-medalist/wasson--trudy/wasson-white-1976.jpg
     caption: Flatbread box © 1976 Trudy Wasson
 
 navigation:

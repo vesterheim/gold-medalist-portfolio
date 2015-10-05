@@ -39,6 +39,10 @@ ribbons:
     item: trunk
 headshot:
 photos:
+  - src: gold-medalist/carlson--paul/carlson-blue-2002-Fjord-Girl-carved-figure.jpg
+    caption: Fjord Girl Carved Figure
+  - src: gold-medalist/carlson--paul/carlson-red-2002-acanthus-carved-trunk.jpg
+    caption: Acanthus-Carved Trunk
 
 navigation:
   exclude: true

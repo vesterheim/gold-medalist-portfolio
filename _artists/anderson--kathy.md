@@ -3,8 +3,8 @@ layout: gold-medalist__artist
 title: Anderson, Kathy
 first_name: Kathy
 last_name: Anderson
-city: Portland
-state: Oregon
+city: White Salmon
+state: Washington
 medals: 
   - discipline: Rosemaling
     year: 1996
@@ -34,6 +34,12 @@ ribbons:
     item: Telemark bowl
 headshot:
 photos:
+  - src: gold-medalist/anderson--kathy/anderson-white-plate-1986.jpg
+    caption: Large Plate 1986
+  - src: gold-medalist/anderson--kathy/Kathy-Anderson-1996-White.jpg
+    caption: Plate 1996
+  - src: gold-medalist/anderson--kathy/K.-Anderson-White-28thNF.jpg
+    caption: Plate 28th annual Nordic Fest
 
 navigation:
   exclude: true

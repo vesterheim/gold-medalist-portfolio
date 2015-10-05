@@ -33,12 +33,12 @@ headshot:
   src: gold-medalist/mueller--lois/mueller--lois.jpg
   caption: Lois Mueller, 2008
 photos:
-  - src: gold-medalist/mueller--lois/Mueller_Lois_photo2.png
+  - src: gold-medalist/mueller--lois/Mueller-white-1994-tine.jpg
     caption: Oval box (tine) © 1994 Lois Mueller
-  - src: gold-medalist/mueller--lois/Mueller_Lois_photo3.png
+  - src: gold-medalist/mueller--lois/Mueller-Red.jpg
     caption: Plate © 1996 Lois Mueller
-  - src: gold-medalist/mueller--lois/Mueller_Lois_photo4.png
-    caption: Corner cupboard © 1997 Lois Mueller
+  - src: gold-medalist/mueller--lois/Mueller-White.jpg
+    caption:
 
 navigation:
   exclude: true

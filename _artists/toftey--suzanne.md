@@ -33,11 +33,11 @@ headshot:
   src: gold-medalist/toftey--suzanne/toftey--suzanne.jpg
   caption: Suzanne Toftey, 2008
 photos:
-  - src: gold-medalist/toftey--suzanne/Toftey_Suzanne_photo2.png
+  - src: gold-medalist/toftey--suzanne/toftey-kubbestol-1986-red.jpg
     caption: Kubbestol © 1986 Suzanne Toftey
-  - src: gold-medalist/toftey--suzanne/Toftey_Suzanne_photo3.png
+  - src: gold-medalist/toftey--suzanne/toftey-blue.jpg
     caption: Plate with goats and people © 1988 Suzanne Toftey
-  - src: gold-medalist/toftey--suzanne/Toftey_Suzanne_photo4.png
+  - src: gold-medalist/toftey--suzanne/toftey-red.jpg
     caption: Plate © 1988 Suzanne Toftey
 
 navigation:

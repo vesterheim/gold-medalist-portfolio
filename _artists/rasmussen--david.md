@@ -9,7 +9,7 @@ medals:
   - discipline: Woodworking
     year: 1990
 occupation:
-life_dates:
+life_dates: Dead
 ribbons:
   - color: White
     year: 1983

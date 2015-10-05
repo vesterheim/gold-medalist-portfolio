@@ -30,11 +30,11 @@ headshot:
   src: gold-medalist/carew--gretchen/carew--gretchen.jpg
   caption: Gretchen Carew, 2008
 photos:
-  - src: gold-medalist/carew--gretchen/Carew_Gretchen_photo2.png
-    caption: Hallingdal-style bucket © 2006 Gretchen Carew
-  - src: gold-medalist/carew--gretchen/Carew_Gretchen_photo3.png
+  - src: gold-medalist/carew--gretchen/Carew-red-1992-bowl.jpg
+    caption: Bowl © 1992 Gretchen Carew
+  - src: gold-medalist/carew--gretchen/Carew-Blue-2007.jpg
     caption: Farm basket © 2007 Gretchen Carew
-  - src: gold-medalist/carew--gretchen/Carew_Gretchen_photo4.png
+  - src: gold-medalist/carew--gretchen/Carew-Red-2007.jpg
     caption: Hallingdal-style bucket © 2007 Gretchen Carew
 
 navigation:

@@ -28,8 +28,12 @@ ribbons:
     item: plate with handle
 headshot:
 photos:
-  - src: gold-medalist/peterson--eleanor/Peterson_Eleanor_photo2.png
-    caption: Umbrella stand, Vesterheim 2004.016.001
+  - src: gold-medalist/peterson--eleanor/Peterson-white-1991-bowl.jpg
+    caption: Bowl 1991
+  - src: gold-medalist/peterson--eleanor/Peterson-white-1993.jpg
+    caption: Valdres-style Box 1993
+  - src: gold-medalist/peterson--eleanor/Peterson-Red.jpg
+    caption: Valdres-style Platter 1996
 
 navigation:
   exclude: true

@@ -29,7 +29,7 @@ headshot:
 photos:
   - src: gold-medalist/moore--carol/Moore_Carol_photo2.png
     caption: Plate © 1992 Carol Moore
-  - src: gold-medalist/moore--carol/Moore_Carol_photo3.png
+  - src: gold-medalist/moore--carol/Moore-1992-plate-red.jpg
     caption: Bowl © 1993 Carol Moore
   - src: gold-medalist/moore--carol/Moore_Carol_photo4.png
     caption: Plate © 1995 Carol Moore

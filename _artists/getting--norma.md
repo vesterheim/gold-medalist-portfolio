@@ -30,11 +30,11 @@ headshot:
   src: gold-medalist/getting--norma/getting--norma.jpg
   caption: Norma Getting, 2008
 photos:
-  - src: gold-medalist/getting--norma/Getting_Norma_photo2.png
-    caption: Bowl © 1991 Norma Getting
-  - src: gold-medalist/getting--norma/Getting_Norma_photo3.png
+  - src: gold-medalist/getting--norma/Getting-blue-1993-bowl.jpg
+    caption: Bowl © 1993 Norma Getting
+  - src: gold-medalist/getting--norma/Getting-bowl-white-1992.jpg
     caption: Bowl © 1992 Norma Getting
-  - src: gold-medalist/getting--norma/Getting_Norma_photo4.png
+  - src: gold-medalist/getting--norma/Getting-plate-1992-white.jpg
     caption: Plate © 1992 Norma Getting
 
 navigation:

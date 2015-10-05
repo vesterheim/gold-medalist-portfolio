@@ -9,7 +9,7 @@ medals:
   - discipline: Rosemaling
     year: 1980
 occupation:
-life_dates:
+life_dates: Deceased
 ribbons:
   - color: Red
     year: 1973

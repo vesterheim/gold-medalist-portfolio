@@ -30,11 +30,11 @@ headshot:
   src: gold-medalist/johnson--carl/johnson--carl.jpg
   caption: Carl Johnson, 2008
 photos:
-  - src: gold-medalist/johnson--carl/Johnson_Carl_photo2.png
+  - src: gold-medalist/johnson--carl/Johnson-Red-23rd-NF.jpg
     caption: "\"Kald Drikke\" figure © 2004 Carl Johnson"
   - src: gold-medalist/johnson--carl/Johnson_Carl_photo3.png
     caption: "\"Dancers\" figure © 2005 Carl Johnson"
-  - src: gold-medalist/johnson--carl/Johnson_Carl_photo4.png
+  - src: gold-medalist/johnson--carl/Johnson-red-2005.jpg
     caption: "\"Theft of 'The Scream'\" figure © 2005 Carl Johnson"
 
 navigation:

@@ -30,8 +30,8 @@ headshot:
   src: gold-medalist/enstad--richard/enstad--richard.jpg
   caption: Richard Enstad, 2008
 photos:
-  - src: gold-medalist/enstad--richard/Enstad_Richard_photo2.png
-    caption: Large oval box (tine) © 1992 Richard Enstad
+  - src: gold-medalist/enstad--richard/Enstad-White-11th-NF.jpg
+    caption: Large oval box (tine) © 11th annual Nordic Fest Richard Enstad
   - src: gold-medalist/enstad--richard/Enstad_Richard_photo3.png
     caption: Flatbread container © 1999 Richard Enstad
   - src: gold-medalist/enstad--richard/Enstad_Richard_photo4.png

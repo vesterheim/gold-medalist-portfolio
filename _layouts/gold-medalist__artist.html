@@ -36,7 +36,7 @@ layout: page
 	{% if forloop.first %}<div class="image-grid__wrapper">{% endif %}
 	<figure class="image-grid__item">
 		<a href="{{ photo.src | prepend: '/assets/images/'}}">
-			{% picture fourth {{ photo.src }} alt="{{ photo.caption }}" class="image-grid__image" %}
+
 			<figcaption class="caption">{{ photo.caption }}</figcaption>
 		</a>
 	</figure>

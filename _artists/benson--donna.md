@@ -32,10 +32,10 @@ headshot:
 photos:
   - src: gold-medalist/benson--donna/Benson_Donna_photo2.png
     caption: Trunk © 1995 Donna Benson
-  - src: gold-medalist/benson--donna/Benson_Donna_photo3.png
+  - src: gold-medalist/benson--donna/Benson-1995-Red.jpg
     caption: Corner cupboard, Vesterheim collection 1996.052.001
-  - src: gold-medalist/benson--donna/Benson_Donna_photo4.png
-    caption: Trunk © 1997 Donna Benson
+  - src: gold-medalist/benson--donna/Benson-Red-27thNF.jpg
+    caption: Trunk © Donna Benson
 
 navigation:
   exclude: true

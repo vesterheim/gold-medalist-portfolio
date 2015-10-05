@@ -11,8 +11,25 @@ medals:
 occupation:
 life_dates:
 ribbons:
+  - color: Blue
+    year: 2003
+    item: 
+  - color: White 
+    year: 2005
+    item:
+  - color: Red 
+    year: 2009
+    item: Plate
+  - color: Red
+    year: 2010
+    item: Chair
 headshot:
 photos:
+  - src: gold-medalist/coy--catherine/Coy-Red-2009.jpg
+    caption: Plate 2009
+  - src: gold-medalist/coy--catherine/Coy-Blue-37th-NF.jpg
+  - src: gold-medalist/coy--catherine/Coy-red-2010.jpg
+    caption: Chair 2010
 
 navigation:
   exclude: true

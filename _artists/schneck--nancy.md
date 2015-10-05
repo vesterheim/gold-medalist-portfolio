@@ -36,11 +36,11 @@ headshot:
   src: gold-medalist/schneck--nancy/schneck--nancy.jpg
   caption: Nancy Schneck, 2008
 photos:
-  - src: gold-medalist/schneck--nancy/Schneck_Nancy_photo2.png
+  - src: gold-medalist/schneck--nancy/schneck-child's-chair-1981.jpg
     caption: Child's chair © 1981 Nancy Schneck
-  - src: gold-medalist/schneck--nancy/Schneck_Nancy_photo3.png
+  - src: gold-medalist/schneck--nancy/schneck-blue-1983-plate.jpg
     caption: Plate © 1983 Nancy Schneck
-  - src: gold-medalist/schneck--nancy/Schneck_Nancy_photo4.png
+  - src: gold-medalist/schneck--nancy/schneck-1983-white.jpg
     caption: Bowl © 1983 Nancy Schneck
 
 navigation:

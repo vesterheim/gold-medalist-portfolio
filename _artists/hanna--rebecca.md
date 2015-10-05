@@ -8,7 +8,7 @@ state: Iowa
 medals: 
   - discipline: Woodworking
     year: 2008
-occupation: Teacher
+occupation: Retired Teacher
 life_dates: Born 1957, Forest City, Iowa
 ribbons:
   - color: Blue
@@ -29,10 +29,10 @@ headshot:
 photos:
   - src: gold-medalist/hanna--rebecca/Hanna_Rebecca_photo2.png
     caption: Ale goose (ølgås) © 2006 Rebecca Hanna
-  - src: gold-medalist/hanna--rebecca/Hanna_Rebecca_photo3.png
+  - src: gold-medalist/hanna--rebecca/Hanna-Blue-2007.jpg
     caption: "\"Asmund Fregdegjeva\" relief carving © 2007 Rebecca Hanna"
-  - src: gold-medalist/hanna--rebecca/Hanna_Rebecca_photo4.png
-    caption: Spoon box with relief, figure, and chip-carving © 2008 Rebecca Hanna
+  - src: gold-medalist/hanna--rebecca/Hanna-white-2007.jpg
+    caption:
 
 navigation:
   exclude: true

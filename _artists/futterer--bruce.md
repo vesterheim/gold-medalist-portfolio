@@ -8,8 +8,8 @@ state: Arkansas
 medals: 
   - discipline: Woodworking
     year: 2005
-occupation:
-life_dates:
+occupation: Dardanelle High School Teacher
+life_dates: Born 1954 in Houston, Texas
 ribbons:
   - color: White
     year: 2002
@@ -30,9 +30,9 @@ headshot:
 photos:
   - src: gold-medalist/futterer--bruce/Futterer_Bruce_photo2.png
     caption: "\"Inga and Hans\" figure © 2002 Bruce Futterer"
-  - src: gold-medalist/futterer--bruce/Futterer_Bruce_photo3.png
-    caption: "\"Troll Bridge\" figure © 2004 Bruce Futterer"
-  - src: gold-medalist/futterer--bruce/Futterer_Bruce_photo4.png
+  - src: gold-medalist/futterer--bruce/Futterer-white-2005.jpg
+    caption:
+  - src: gold-medalist/futterer--bruce/Futterer-red-2005.jpg
     caption: "\"Hello Dalla\" figure © 2005 Bruce Futterer"
 
 navigation:

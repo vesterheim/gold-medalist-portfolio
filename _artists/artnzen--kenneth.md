@@ -28,6 +28,8 @@ ribbons:
     item: acanthus-carved mantle
 headshot:
 photos:
+  - src: gold-medalist/arntzen--kenneth/K.Arntzen.jpg
+    caption: Acanthus-Carved Cartouche 2004
 
 navigation:
   exclude: true

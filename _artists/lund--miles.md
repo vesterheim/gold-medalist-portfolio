@@ -30,10 +30,10 @@ headshot:
   src: gold-medalist/lund--miles/lund--miles.jpg
   caption: Miles Lund, 2008
 photos:
-  - src: gold-medalist/lund--miles/Lund_Miles_photo2.png
+  - src: gold-medalist/lund--miles/Lund-Red-1991-bowl.jpg
     caption: Chip-carved bowl, Vesterheim collection 1991.079.001
-  - src: gold-medalist/lund--miles/Lund_Miles_photo3.png
-    caption: Chip-carved bowl © 2003 Miles Lund
+  - src: gold-medalist/lund--miles/lund-red-2002-chip-carved-plate.jpg
+    caption:
 
 navigation:
   exclude: true

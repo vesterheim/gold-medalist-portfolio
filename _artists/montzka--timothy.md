@@ -31,7 +31,7 @@ headshot:
   src: gold-medalist/montzka--timothy/montzka--timothy.jpg
   caption: Timothy Montzka
 photos:
-  - src: gold-medalist/montzka--timothy/Montzka_Timothy_photo2.png
+  - src: gold-medalist/montzka--timothy/Montzka-1986-Red-plate.jpg
     caption: Plate with incised decoration© 1986 Timothy Montzka
   - src: gold-medalist/montzka--timothy/Montzka_Timothy_photo3.png
     caption: Plate with chip-carving © 1986 Timothy Montzka

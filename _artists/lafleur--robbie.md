@@ -34,8 +34,8 @@ photos:
     caption: "\"Life is a Balancing Act\" wall hanging © 2001 Robbie LaFleur"
   - src: gold-medalist/lafleur--robbie/LaFleur_Robbie_photo3.png
     caption: "\"Oldemor med Honer\" wall hanging © 2001 Robbie LaFleur"
-  - src: gold-medalist/lafleur--robbie/LaFleur_Robbie_photo4.png
-    caption:  "\"Fragments of Life\" wall hanging © 2002 Robbie LaFleur"
+  - src: gold-medalist/lafleur--robbie/lafleur_2011.jpg
+    caption:
 
 navigation:
   exclude: true

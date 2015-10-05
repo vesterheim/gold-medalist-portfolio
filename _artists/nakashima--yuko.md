@@ -25,11 +25,11 @@ ribbons:
     item: Telemark-style bowl
 headshot:
 photos:
-  - src: gold-medalist/nakashima--yuko/Nakashima_Yuko_photo2.png
-    caption: Ambar © 2002 Yuko Nakashima
+  - src: gold-medalist/nakashima--yuko/Nakashima-Honorable-Mention-37th-NF.jpg
+    caption: Honorable Mention at Vesterheim's 37th Nordic Fest Art Exhibition
   - src: gold-medalist/nakashima--yuko/Nakashima_Yuko_photo3.png
     caption: Ambar © 2004 Yuko Nakashima
-  - src: gold-medalist/nakashima--yuko/Nakashima_Yuko_photo4.png
+  - src: gold-medalist/nakashima--yuko/Nakashima-Red-2005.jpg
     caption: Bowl © 2005 Yuko Nakashima
 
 navigation:

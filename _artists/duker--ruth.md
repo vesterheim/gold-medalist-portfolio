@@ -31,6 +31,9 @@ ribbons:
     item: belt
 headshot:
 photos:
+  - src: gold-medalist/duker--ruth/Ruth-Duker-white.jpg
+  - src: gold-medalist/duker--ruth/Ruth-Duker-white-2.jpg
+    caption: Belt 1991
 
 navigation:
   exclude: true

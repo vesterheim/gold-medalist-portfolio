@@ -37,6 +37,8 @@ ribbons:
     item: "\"Romsdalshorn from Venegal\" tapestry"
 headshot:
 photos:
+  - src: gold-medalist/blake--ase/Ase-Blake-1988-red.jpg
+    caption: Wall Hanging
 
 navigation:
   exclude: true

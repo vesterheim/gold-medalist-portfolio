@@ -29,7 +29,10 @@ ribbons:
     item: chair-table
 headshot:
 photos:
-
+  - src: gold-medalist/dziak--carol/Dziak-1975-white.jpg
+    caption: Baby Cradle 1975
+  - src: gold-medalist/dziak--carol/Dziak-white-1976.jpg
+  - src: gold-medalist/dziak--carol/Dziak-white-1978.jpg
 navigation:
   exclude: true
 

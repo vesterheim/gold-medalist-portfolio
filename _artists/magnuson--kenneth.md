@@ -34,8 +34,8 @@ photos:
     caption: Skrin © 2000 Ken Magnuson
   - src: gold-medalist/magnuson--kenneth/Magnuson_Ken_photo3.png
     caption: Secretary desk © 2001 Ken Magnuson
-  - src: gold-medalist/magnuson--kenneth/Magnuson_Ken_photo4.png
-    caption: Hallingdal-style table © 2003 Ken Magnuson
+  - src: gold-medalist/magnuson--kenneth/Kenneth-Magneson-white.jpg
+    caption: Hallingdal-style table
 
 navigation:
   exclude: true

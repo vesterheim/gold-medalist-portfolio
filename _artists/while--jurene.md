@@ -32,10 +32,10 @@ headshot:
 photos:
   - src: gold-medalist/while--jurene/While_Jurene_photo2.png
     caption: Yarn carrier © 1995 Jurene While
-  - src: gold-medalist/while--jurene/While_Jurene_photo3.png
-    caption: Telemark-style bowl © 1999 Jurene While
-  - src: gold-medalist/while--jurene/While_Jurene_photo4.png
-    caption: Ambar © 2002 Jurene While
+  - src: gold-medalist/while--jurene/while-white-telemark-style-ambar-2002.jpg
+    caption: Telemark-style ambar © 1999 Jurene While
+  - src: gold-medalist/while--jurene/while-white-1992-yarn-hod.jpg
+    caption: Yarn Hod © 2002 Jurene While
 
 navigation:
   exclude: true

@@ -26,7 +26,7 @@ headshot:
 photos:
   - src: gold-medalist/greaves--lynne/Greaves_Lynne_photo2.png
     caption: Table runner in skillbragd © 1989 Lynne Greaves
-  - src: gold-medalist/greaves--lynne/Greaves_Lynne_photo3.png
+  - src: gold-medalist/greaves--lynne/Greaves-2000-blue.jpg
     caption: Table runner © 2000 Lynne Greaves
   - src: gold-medalist/greaves--lynne/Greaves_Lynne_photo4.png
     caption: Contemporary purse © 2001 Lynne Greaves

@@ -9,7 +9,7 @@ medals:
   - discipline: Rosemaling
     year: 1990
 occupation: Housewife/Rosemaling teacher
-life_dates: Born 1934, Ladysmith, Wisconsin
+life_dates: Born 1934, Ladysmith, Wisconsin and Dead in 2014
 ribbons:
   - color: White
     year: 1987
@@ -33,12 +33,12 @@ headshot:
   src: gold-medalist/hammer--marlys/hammer--marlys.jpg
   caption: Marlys Hammer, portrait © 2005 Laurie Hansen, photographer
 photos:
-  - src: gold-medalist/hammer--marlys/Hammer_Marlys_photo2.png
+  - src: gold-medalist/hammer--marlys/Hammer-Blue-1989-plate.jpg
     caption: Plate, Vesterheim collection 1989.043.001
-  - src: gold-medalist/hammer--marlys/Hammer_Marlys_photo3.png
-    caption: Bowl © 1989 Marlys Hammer
-  - src: gold-medalist/hammer--marlys/Hammer_Marlys_photo4.png
-    caption: Plate © 1990 Marlys Hammer
+  - src: gold-medalist/hammer--marlys/Hammer-1987-white.jpg
+    caption:
+  - src: gold-medalist/hammer--marlys/Hammer-Porringer-1987.jpg
+    caption:
 
 navigation:
   exclude: true

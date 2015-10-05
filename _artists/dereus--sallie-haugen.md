@@ -8,8 +8,8 @@ state: Iowa
 medals: 
   - discipline: Rosemaling
     year: 1974
-occupation:
-life_dates:
+occupation: Homemaker and Freelance Artist
+life_dates: Born 1939 Allegan, Michigan
 ribbons:
   - color: Red
     year: 1971
@@ -28,7 +28,11 @@ ribbons:
     year: 1974
 headshot:
 photos:
-
+  - src: gold-medalist/dereus--sallie/DeRues-1974-blue.jpg
+  - src: gold-medalist/dereus--sallie/DeRues-blue-1974.jpg
+  - src: gold-medalist/dereus--sallie/DeReus-Best-of-Show.jpg
+    caption: Best of Show
+  
 navigation:
   exclude: true
 

@@ -25,9 +25,9 @@ ribbons:
     item: "\"Old Time Photographer\" figure"
 headshot:
 photos:
-  - src: gold-medalist/kaisersatt--marvin/Kaisersatt_Marvin_photo2.png
+  - src: gold-medalist/kaisersatt--marvin/Kaisersatt-1989-White.jpg
     caption: "\"Man at Grindstone\" figure © 1989 Marvin Kaisersatt"
-  - src: gold-medalist/kaisersatt--marvin/Kaisersatt_Marvin_photo3.png
+  - src: gold-medalist/kaisersatt--marvin/Kaisersatt-1990-Blue.jpg
     caption: "\"Woodcutter\" figure © 1990 Marvin Kaisersatt"
   - src: gold-medalist/kaisersatt--marvin/Kaisersatt_Marvin_photo4.png
     caption: "\"Old Time Photographer\" figure © 1991 Marvin Kaisersatt"

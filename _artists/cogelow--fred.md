@@ -8,8 +8,8 @@ state: Minnesota
 medals: 
   - discipline: Woodworking
     year: 2005
-occupation:
-life_dates:
+occupation: Woodcarver
+life_dates: Born 1949 in Wilmar, Minnesota
 ribbons:
   - color: Red
     year: 2000
@@ -25,6 +25,7 @@ ribbons:
     item: "\"Rest Easy Tonight\" figure"
 headshot:
 photos:
+  - src: gold-medalist/cogelow--fred/Cogelow-Blue-2005.jpg
 
 navigation:
   exclude: true
@@ -38,3 +39,5 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
+
+Involvement in Norwegian American folk art began when I was kidnapped, brainwashed, and indoctrinated by by Norsekie-phile Martians. Perhaps you jump to the conclusion that I possess an I-identity, or perhaps it is I-identity or as close as I’ll get to one. My art has been most influenced by Otto Nygaard and brain damage. 

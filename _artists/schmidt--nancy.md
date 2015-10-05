@@ -36,9 +36,9 @@ headshot:
   src: gold-medalist/schmidt--nancy/schmidt--nancy.jpg
   caption: Nancy Schmidt, 2008
 photos:
-  - src: gold-medalist/schmidt--nancy/Schmidt_Nancy_photo2.png
-    caption: Dough box © 1986 Nancy Schmidt
-  - src: gold-medalist/schmidt--nancy/Schmidt_Nancy_photo3.png
+  - src: gold-medalist/schmidt--nancy/schmidt-1986-white-dough-box.jpg
+    caption: Dough Box © 1986 Nancy Schmidt
+  - src: gold-medalist/schmidt--nancy/schmidt-Red.jpg
     caption: Plate © 1988 Nancy Schmidt
   - src: gold-medalist/schmidt--nancy/Schmidt_Nancy_photo4.png
     caption: Plate © 1990 Nancy Schmidt

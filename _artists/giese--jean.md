@@ -30,11 +30,11 @@ headshot:
   src: gold-medalist/giese--jean/giese--jean.jpg
   caption: Jean Giese, 2008
 photos:
-  - src: gold-medalist/giese--jean/Giese_Jean_photo2.png
-    caption: Umbrella stand © 1986 Jean Giese
-  - src: gold-medalist/giese--jean/Giese_Jean_photo3.png
+  - src: gold-medalist/giese--jean/Giese-blue-1984.jpg
+    caption: Painted Chest
+  - src: gold-medalist/giese--jean/Giese-ale-bowl-1987-white.jpg
     caption: Spouted bowl © 1987 Jean Giese
-  - src: gold-medalist/giese--jean/Giese_Jean_photo4.png
+  - src: gold-medalist/giese--jean/Giese-bowl-white-1987.jpg
     caption: Plate with Norwegian inscription, Vesterheim 
 
 navigation:

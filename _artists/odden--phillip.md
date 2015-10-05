@@ -24,11 +24,15 @@ ribbons:
     year: 1983
     item: kubbestol
 headshot:
+  src: gold-medalist/odden--phillip/Odden-headshot.jpg
+  caption: Phillip Odden
 photos:
   - src: gold-medalist/odden--phillip/Odden_Philip_photo2.png
     caption: Acanthus-carved panel © 1982 Philip Odden
   - src: gold-medalist/odden--phillip/Odden_Philip_photo3.png
     caption: Mirror frame © 1982 Philip Odden
+  - src: gold-medalist/odden--phillip/Odden-Best-of-Show-9th-NF.jpg
+    caption: Best of Show in Vesterheim's 9th Nordic Fest Art Exhibition
 
 navigation:
   exclude: true

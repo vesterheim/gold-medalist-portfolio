@@ -26,7 +26,7 @@ headshot:
 photos:
   - src: gold-medalist/schopen--ione/Schopen_Ione_photo2.png
     caption: Corner cupboard © 2001 Ione Schopen
-  - src: gold-medalist/schopen--ione/Schopen_Ione_photo3.png
+  - src: gold-medalist/schopen--ione/schopen-red.jpg
     caption: Vest Agder-style skrin © 2003 Ione Schopen
   - src: gold-medalist/schopen--ione/Schopen_Ione_photo4.png
     caption: Vest Agder-style box © 2004 Ione Schopen

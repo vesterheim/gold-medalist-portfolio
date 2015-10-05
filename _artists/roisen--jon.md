@@ -28,8 +28,8 @@ ribbons:
     item: knife with stitched sheath
 headshot:
 photos:
-  - src: gold-medalist/roisen--jon/Roisen_Jon_photo2.png
-    caption: Knife and sheath © 2003 Jon Roisen
+  - src: gold-medalist/roisen--jon/Roisen-Red-2005.jpg
+    caption: Knife and Shealth 2005
   - src: gold-medalist/roisen--jon/Roisen_Jon_photo3.png
     caption: Work knife with bloodwood and elkhorn handle © 2004 Jon Roisen
   - src: gold-medalist/roisen--jon/Roisen_Jon_photo4.png

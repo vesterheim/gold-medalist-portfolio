@@ -27,11 +27,11 @@ headshot:
   src: gold-medalist/evenstad--shirley/evenstad--shirley.jpg
   caption: Shirley Evenstad, 2008
 photos:
-  - src: gold-medalist/evenstad--shirley/Evenstad_Shirley_photo2.png
+  - src: gold-medalist/evenstad--shirley/Evanstad-1982-white.jpg
     caption: Corner cupboard © 1982 Shirley Evenstad
-  - src: gold-medalist/evenstad--shirley/Evenstad_Shirley_photo3.png
-    caption: Tilt-top table © 1983 Shirley Evenstad
-  - src: gold-medalist/evenstad--shirley/Evenstad_Shirley_photo4.png
+  - src: gold-medalist/evenstad--shirley/Evanstad-1981-blue.jpg
+    caption: Tool Case © 1981 Shirley Evenstad
+  - src: gold-medalist/evenstad--shirley/Evanstad-1983-blue-trunk.jpg
     caption: Trunk © 1983 Shirley Evenstad
 
 navigation:

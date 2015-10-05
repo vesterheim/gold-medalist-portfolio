@@ -13,20 +13,24 @@ life_dates:
 ribbons:
   - color: White
     year: 1984
-    item: cutting boards
+    item: Cutting Boards
   - color: Blue
     year: 1986
-    item: cradle
+    item: Cadle
   - color: Blue
     year: 1987
     item: Acanthus-carved wall panel
   - color: White
     year: 1987
-    item: kubbestol
+    item: Kubbestol
 headshot:
+  src: gold-medalist/simonson--glen/simonson-headshot.jpg
+  caption: 
 photos:
-  - src: gold-medalist/simonson--glen/Simonson_Glen_photo2.png
+  - src: gold-medalist/simonson--glen/simonson-blue-1986.jpg
     caption: Cradle © 1986 Glen Simonson
+  - src: gold-medalist/simonson--glen/simonson-kubbestol-white-1987.jpg
+    caption: Kubbestol 1987
 
 navigation:
   exclude: true

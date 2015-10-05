@@ -24,11 +24,11 @@ headshot:
   src: gold-medalist/roth--john/roth--john.jpg
   caption: John Roth, 2008
 photos:
-  - src: gold-medalist/roth--john/Roth_John_photo2.png
+  - src: gold-medalist/roth--john/Roth-red-2005.jpg
     caption: "\"Gothic Window\" chip carving © 2005 John Roth"
   - src: gold-medalist/roth--john/Roth_John_photo3.png
     caption: "\"Hexagonal Mirror Frame\" chip carving © 2006"
-  - src: gold-medalist/roth--john/Roth_John_photo4.png
+  - src: gold-medalist/roth--john/Roth-blue-2007.jpg
     caption: "\"Triptych\" chip carving © 2007 John Roth"
 
 navigation:

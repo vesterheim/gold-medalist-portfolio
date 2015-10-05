@@ -27,8 +27,15 @@ ribbons:
     year: 1984
     item: Acanthus-carved plate rack
 headshot:
+  src: gold-medalist/sandom--hans/sandom-headshot.jpg
+  caption: Hans Sandom
 photos:
-
+  - src: gold-medalist/sandom--hans/sandom-1984-blue.jpg
+    caption:
+  - src: gold-medalist/sandom--hans/sandom2.jpg
+    caption:
+  - src: gold-medalist/sandom--hans/sandom3.jpg
+    caption:
 navigation:
   exclude: true
 

@@ -36,11 +36,11 @@ headshot:
   src: gold-medalist/lamont--irene/lamont--irene.jpg
   caption: Irene Lamont, 2008
 photos:
-  - src: gold-medalist/lamont--irene/Lamont_Irene_photo2.png
+  - src: gold-medalist/lamont--irene/Lamont-bowl-1984-white.jpg
     caption: Bowl, Vesterheim collection 1984.116.002
-  - src: gold-medalist/lamont--irene/Lamont_Irene_photo3.png
+  - src: gold-medalist/lamont--irene/Lamont-1984-white-cupboard.jpg
     caption: Cupboard © 1984 Irene Lamont
-  - src: gold-medalist/lamont--irene/Lamont_Irene_photo4.png
+  - src: gold-medalist/lamont--irene/Lamont-1985-blue.jpg
     caption: Bowl, Vesterheim collection 1985.065.004
 
 navigation:

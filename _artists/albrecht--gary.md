@@ -28,6 +28,10 @@ ribbons:
     item: large serving plate
 headshot:
 photos:
+  - src: gold-medalist/albrecht--gary/albrecht-white-1978.jpg
+    caption: Work Bench
+  - src: gold-medalist/albrecht--gary/albrecht-red-1977.jpg
+    caption: Plate
 
 navigation:
   exclude: true
@@ -35,7 +39,7 @@ navigation:
 pagelist:
   order:         # Defaults to navigation order  
   image: ~
-  alt:
+  alt: 
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle

@@ -29,7 +29,7 @@ headshot:
 photos:
   - src: gold-medalist/peach--trudy/Peach_Trudy_photo2.png
     caption: Plate, Vesterheim collection 1984.116.001
-  - src: gold-medalist/peach--trudy/Peach_Trudy_photo3.png
+  - src: gold-medalist/peach--trudy/Peach-blue-1986.jpg
     caption: Trunk © 1984 Trudy Peach
 
 navigation:

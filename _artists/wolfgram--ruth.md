@@ -9,7 +9,7 @@ medals:
   - discipline: Rosemaling
     year: 1974
 occupation:
-life_dates:
+life_dates: Dead 2014
 ribbons:
   - color: White
     year: 1969
@@ -29,7 +29,8 @@ ribbons:
     year: 1974
 headshot:
 photos:
-
+  - src: gold-medalist/wolfgram--ruth/wolfgram-blue-1974.jpg
+    caption:
 navigation:
   exclude: true
 

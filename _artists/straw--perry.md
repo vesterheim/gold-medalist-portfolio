@@ -11,8 +11,21 @@ medals:
 occupation:
 life_dates:
 ribbons:
+  - color: Red
+    year: 2004
+    item: 
+  - color: Blue
+    year: 2011
+    item: 
+  - color: Blue
+    year: 2011
+    item:
 headshot:
 photos:
+  - src: gold-medalist/straw--perry/straw_blue-2011.jpg
+    caption: 
+  - src: gold-medalist/straw--perry/straw_blue_2011.jpg
+    caption: 
 
 navigation:
   exclude: true

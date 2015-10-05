@@ -33,7 +33,7 @@ headshot:
   src: gold-medalist/bagstad--tilford-tip/bagstad--tilford-tip.jpg
   caption: Tilford "Tip" Bagstad, 2008
 photos:
-  - src: gold-medalist/bagstad--tilford-tip/Bagstad_Tip_photo2.png
+  - src: gold-medalist/bagstad--tilford-tip/Bagstad-1995-tray.jpg
     caption: Serving tray © 1995 Tilford Bagstad
   - src: gold-medalist/bagstad--tilford-tip/Bagstad_Tip_photo3.png
     caption: Cartouche with acanthus © 1996 Tilford Bagstad

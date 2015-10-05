@@ -8,8 +8,8 @@ state: Minnesota
 medals: 
   - discipline: Rosemaling
     year: 1991
-occupation:
-life_dates: Born in St. Paul, MN
+occupation: Housewife and part-time teacher
+life_dates: Born 1931 in St. Paul, MN
 ribbons:
   - color: White
     year: 1987

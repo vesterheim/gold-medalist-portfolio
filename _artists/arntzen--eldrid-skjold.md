@@ -39,11 +39,11 @@ headshot:
   src: gold-medalist/arntzen--eldrid-skjold/arntzen--eldrid-skjold.jpg
   caption: Eldrid Skjold Arntzen, 2008
 photos:
-  - src: gold-medalist/arntzen--eldrid-skjold/Arntzen_Eldrid_photo2.png
+  - src: gold-medalist/arntzen--eldrid-skjold/Arntzen-1982-white.jpg
     caption: Covered bowl © 1982 Eldrid Skjold Arntzen
-  - src: gold-medalist/arntzen--eldrid-skjold/Arntzen_Eldrid_photo3.png
+  - src: gold-medalist/arntzen--eldrid-skjold/Arntzen-1986-white-bowl.jpg
     caption: Large bowl © 1986 Eldrid Skjold Arntzen
-  - src: gold-medalist/arntzen--eldrid-skjold/Arntzen_Eldrid_photo4.png
+  - src: gold-medalist/arntzen--eldrid-skjold/Arntzen-1986-trunk-white.jpg
     caption: Trunk © 1986 Eldrid Skjold Arntzen
 
 navigation:

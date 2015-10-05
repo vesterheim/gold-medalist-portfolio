@@ -8,8 +8,8 @@ state: California
 medals: 
   - discipline: Rosemaling
     year: 1996
-occupation:
-life_dates:
+occupation: Registered Nurse
+life_dates: Born 1937
 ribbons:
   - color: White
     year: 1991
@@ -37,8 +37,8 @@ photos:
     caption: Ale bowl © 1992 JoSonja Jansen
   - src: gold-medalist/jansen--josonja/Jansen_JoSonja_photo3.png
     caption: Bowl © 1996 JoSonja Jansen
-  - src: gold-medalist/jansen--josonja/Jansen_JoSonja_photo4.png
-    caption: Tine © 1996 JoSonja Jansen
+  - src: gold-medalist/jansen--josonja/Jansen-tine-1991-white.jpg
+    caption: Tine © 1991 JoSonja Jansen
 
 navigation:
   exclude: true
