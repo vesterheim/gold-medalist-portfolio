@@ -8,6 +8,7 @@ GEM
       minitest (~> 5.1)
       thread_safe (~> 0.1)
       tzinfo (~> 1.1)
+    addressable (2.4.0)
     blankslate (2.1.2.4)
     celluloid (0.16.0)
       timers (~> 4.0.0)
@@ -20,6 +21,8 @@ GEM
     colorator (0.1)
     execjs (2.2.1)
     fast-stemmer (1.0.2)
+    fastimage (2.0.0)
+      addressable (~> 2)
     ffi (1.9.3)
     gemoji (2.1.0)
     github-pages (25)
@@ -123,8 +126,12 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  fastimage
   github-pages
   mini_magick
   octopress-date-format (~> 2.0)
   octopress-hooks (~> 2.2)
   rubypants (~> 0.2.0)
+
+BUNDLED WITH
+   1.11.2
