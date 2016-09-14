@@ -50,10 +50,10 @@ layout: page
 	{% if forloop.last %}</div>{% endif %}
 {% endfor %}
 
-{% if page.occupation %}Occupation: {{ page.occupation }}<br />{% endif %}
-{% if residence %}Residence at Time of Award: {{ residence }}<br />{% endif %}
-{% if page.life_dates %}Life Dates: {{ page.life_dates }}<br />{% endif %}
-{% if page.ribbons %}Ribbons: {{ ribbons }}<br />{% endif %}
+{% if page.occupation %}<strong>Occupation:</strong> {{ page.occupation }}<br />{% endif %}
+{% if residence %}<strong>Residence at Time of Award:</strong> {{ residence }}<br />{% endif %}
+{% if page.life_dates %}<strong>Life Dates:</strong> {{ page.life_dates }}<br />{% endif %}
+{% if page.ribbons %}<strong>Ribbons:</strong> {{ ribbons }}<br />{% endif %}
 
 {{ content }}
 <!-- Root element of PhotoSwipe. Must have class pswp. -->
