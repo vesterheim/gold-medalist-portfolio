@@ -47,7 +47,7 @@ layout: page
 {% for photo in page.photos %}
 	{% if forloop.first %}<div class="my-gallery  picture  image-grid__wrapper" itemscope itemtype="http://schema.org/ImageGallery">{% endif %}
   	{% include gold-medalist/view-thumbnail.html src=photo.src caption=photo.caption index0=forloop.index0 %}
-	{% if forloop.last %}</div>{% endif %}
+	{% if forloop.last %}</div><p>Click to enlarge picture</p>{% endif %}
 {% endfor %}
 
 {% if page.occupation %}<strong>Occupation:</strong> {{ page.occupation }}<br />{% endif %}
