@@ -52,10 +52,10 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-I got interested in rosemaling after visiting Norway in 1968 and started to take lessons in 1971.  My husband is from Valdres, Norway and I have always been interested in art in general.  I found rosemaling very pleasing and have always enjoyed painting flowers and scrolls.  The teachers that have influenced me the most are Sigmund Aarseth and Nils Ellingsgard.  I also have learned a lot from Bergljot Lunde and Alfhild Tangen. 
+I got interested in rosemaling after visiting Norway in 1968 and started to take lessons in 1971. My husband is from Valdres, Norway, and I have always been interested in art in general. I found rosemaling very pleasing and have always enjoyed painting flowers and scrolls. The teachers that have influenced me the most are Sigmund Aarseth and Nils Ellingsgard. I also have learned a lot from Bergljot Lunde and Alfhild Tangen. 
 
-I started to teach rosemaling in 1973 in an evening adult ed class in Sioux Falls.  I traveled to many small towns in South Dakota teaching rosemaling from 1976 - 1984.  These classes were sponsored by the South Dakota Arts Council and National Endowment for the Arts.  I have since taught throughout the U. S. 
+I started to teach rosemaling in 1973 in an evening adult ed class in Sioux Falls, South Dakota. I traveled to many small towns in South Dakota teaching rosemaling from 1976 to 1984. These classes were sponsored by the South Dakota Arts Council and National Endowment for the Arts. I have since taught throughout the United States. 
 
-Rosemaling has been my profession the last 36 years.  I do mostly commission work.  I have also taught some rosemaling classes at Vesterheim.  I am best known for my Telemark style of rosemaling, but I also teach Valdres, Hallingdal, and the Gudbrandsdal styles.  I enjoy painting on larger pieces - trunks, bowls, cabinets and furniture.
+Rosemaling has been my profession the last 36 years. I do mostly commission work. I have also taught some rosemaling classes at Vesterheim. I am best known for my Telemark style of rosemaling, but I also teach Valdres, Hallingdal, and the Gudbrandsdal styles. I enjoy painting on larger pieces—trunks, bowls, cabinets, and furniture.
 
 - Sunhilde Muldbakken, 2008

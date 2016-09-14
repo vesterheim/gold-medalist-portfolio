@@ -32,7 +32,7 @@ headshot:
 photos:
   - src: gold-medalist/leenhouts--marty/Leenhouts-red-2014.jpg
     caption:
-  - src: gold-medalist/leenhouts--marty/Leenhout-Clock-whtie-2014.jpg
+  - src: gold-medalist/leenhouts--marty/Leenhout-Clock-white-2014.jpg
     caption:
   - src: gold-medalist/leenhouts--marty/Leenhouts-red-2015.jpg
     caption:

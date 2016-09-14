@@ -39,5 +39,4 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-
-Involvement in Norwegian American folk art began when I was kidnapped, brainwashed, and indoctrinated by by Norsekie-phile Martians. Perhaps you jump to the conclusion that I possess an I-identity, or perhaps it is I-identity or as close as I’ll get to one. My art has been most influenced by Otto Nygaard and brain damage. 
+Involvement in Norwegian-American folk art began when I was kidnapped, brainwashed, and indoctrinated by Norsekie-phile Martians. Perhaps you jump to the conclusion that I possess an I-identity, or perhaps it is I-identity or as close as I’ll get to one. My art has been most influenced by Otto Nygaard and brain damage. 

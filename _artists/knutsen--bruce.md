@@ -48,13 +48,12 @@ pagelist:
 ---
 1.  How did you get involved in your field of Norwegian folk art?
 
-I felt an intuitive pull in 1996 to try Folk Art at North House
+I felt an intuitive pull in 1996 to try folk art at North House.
 
 2.  Does Norwegian folk art speak to your identity? In what why?
 
-My heritage in Scandinavian and always enjoyed Folk Art. 
+My heritage is Scandinavian and I always enjoyed folk art. 
 
 3.  Who or what has influenced your art the most? 
 
 There are multiple instuctures that have influenced me both at North House and at Vesterheim. I am gratefule to Harley Rofsol, Gene Tokheim, and Phil Odden to name a few. 
-

@@ -46,6 +46,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-My grandparents on both sides of my family immigrated to the US from southern Norway in the early 1900s and settled in Brooklyn, NY.  When I started weaving almost 40 years ago it was natural for me to explore the rich tradition of fine Norwegian weaving.  For many years I concentrated on functional fabric for clothing and found particular inspiration from the Norwegian's use of double weave and wadmal.  In 1998 I changed my focus to tapestry weaving and, although I have been influenced by tapestry weaving from France, Germany, Africa and the Middle East, I have continued to enjoy creating tapestries which celebrate my Norwegian heritage.
+My grandparents on both sides of my family immigrated to the United States from southern Norway in the early 1900s and settled in Brooklyn, New Yor. When I started weaving almost 40 years ago it was natural for me to explore the rich tradition of fine Norwegian weaving. For many years I concentrated on functional fabric for clothing and found particular inspiration from the Norwegian's use of double weave and wadmal. In 1998 I changed my focus to tapestry weaving and, although I have been influenced by tapestry weaving from France, Germany, Africa, and the Middle East, I have continued to enjoy creating tapestries that celebrate my Norwegian heritage.
 
 - Priscilla Lynch, 2008

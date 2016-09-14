@@ -45,10 +45,10 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-Carol started rosemaling in 1970 with Norma Hugdahl.  Since then she has studied with Ruth Wolfgram, Eileen Riemer, Karen Jenson, Thelma and Elma Olsen, Vi Thode, and Norwegian painters Sigmund Aarseth, Nils Ellingsgard, Elsa Sjovaeg, and Alfhild Tangen.
+Carol started rosemaling in 1970 with Norma Hugdahl. Since then she has studied with American painters Ruth Wolfgram, Eileen Riemer, Karen Jenson, Thelma and Elma Olsen, and Vi Thode, and Norwegian painters Sigmund Aarseth, Nils Ellingsgard, Elsa Sjovaeg, and Alfhild Tangen.
 
-She won her first ribbon in the beginners' class at Stoughton in 1971 for a Telemark milking stool.  Her first entry and ribbon in Decorah was on a baby cradle in 1975.  Carol has taught classes at Milwaukee Area Technical College and workshops in Wisconsin and the surrounding states.
+She won her first ribbon in the beginners' class at Stoughton in 1971 for a Telemark milking stool. Her first entry and ribbon at Vesterheim was for a baby cradle in 1975. Carol has taught classes at Milwaukee Area Technical College and workshops in Wisconsin and the surrounding states.
 
-Carol has been married for twenty-four years and has three children, ages 22, 20, and 18.  In addition to rosemaling, Carol collects antiques and is now beginning a miniature collection.  She is having a large Victorian dollhouse built at this time and some day hopes to have plenty of time to work on it.  Carol would like to thank all her excellent teachers over the years for their help and encouragement. 
+Carol has been married for 24 years and has three children, ages 22, 20, and 18. In addition to rosemaling, Carol collects antiques and is now beginning a miniature collection. She is having a large Victorian dollhouse built at this time and some day hopes to have plenty of time to work on it. Carol would like to thank all her excellent teachers over the years for their help and encouragement. 
 
--Excerpt from Vesterheim Rosemaling Letter Vol. X no. 3, 1980
+-Excerpt from Vesterheim _Rosemaling Letter Vol. X no. 3_, 1980

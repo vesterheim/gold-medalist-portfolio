@@ -47,8 +47,8 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-My involvement with my field of Norwegian art originated from my interest in Norwegian folk art and my membership in Sons of Norway.  This Norwegian folk art speaks to my identity in that my Grandfather and Grandmother Lund were originally from Norway.  Harley Refsal, Rolf Taraldset, and Knut Arnesen have influenced my art the most.
+My involvement with my field of Norwegian art originated from my interest in Norwegian folk art and my membership in Sons of Norway. This Norwegian folk art speaks to my identity in that my Grandfather and Grandmother Lund were originally from Norway. Harley Refsal, Rolf Taraldset, and Knut Arnesen have influenced my art the most.
 
-The Vesterheim adventures, classes, and Nordic Fests have been very special.  The things I've learned and projects I've accomplished are great.  I didn't think I could ever achieve a gold medal, which, in the beginning, was not a goal; it was to learn the Norwegian carving and be able to carve.  Luck has been with me and I've enjoyed every minute of it.  Thanks to Vesterheim and Decorah.
+The Vesterheim adventures, classes, and Nordic Fests have been very special. The things I've learned and projects I've accomplished are great. I didn't think I could ever achieve a Gold Medal, which, in the beginning, was not a goal. My goal was to learn the Norwegian carving and be able to carve. Luck has been with me and I've enjoyed every minute of it. Thanks to Vesterheim and Decorah.
 
 - Miles Lund, 2008

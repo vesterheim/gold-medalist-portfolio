@@ -50,9 +50,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-
-
-Artist Statement: 
-Growing up in northern Wisconsin, in a community with a large Scandinavian population, I've been exposed to the beauty of Norwegian style decoration all my life. I started carving about 25 years ago, carving mostly fish and birds. After many years of wildlife carving I needed a change and having seen the work of Philip Odden and Else Bigton, I decided to try acanthus style carving. I took a class from Philip and Else and they started me on my journey to a gold medal. They have been friends and mentors for many years, and I will always be grateful for their help and encouragement.
+Growing up in northern Wisconsin in a community with a large Scandinavian population, I've been exposed to the beauty of Norwegian-style decoration all my life. I started carving about 25 years ago, carving mostly fish and birds. After many years of wildlife carving I needed a change. Seeing the work of Philip Odden and Else Bigton, I decided to try acanthus-style carving. I took a class from Philip and Else and they started me on my journey to a Vesterheim Gold Medal. They have been friends and mentors for many years, and I will always be grateful for their help and encouragement.
 
 -Russ Biros, 2015

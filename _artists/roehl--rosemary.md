@@ -55,14 +55,14 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-I am a self-taught weaver who has focused on learning the weaving techniques used in traditional Norwegian weavings.  After my first trip to Norway in 1978 I became determined to create weavings like those I saw there.  My relatives lived on the Nordfjord and their homes were full of lovely weavings.
+I am a self-taught weaver who has focused on learning the weaving techniques used in traditional Norwegian weavings. After my first trip to Norway in 1978 I became determined to create weavings like those I saw there. My relatives lived on the Nordfjord and their homes were full of lovely weavings.
 
-After learning the basics of dressing my 6 harness 20 inch table loom, I began studying the monk's belt technique.  I entered competitions including the Vesterheim Exhibition of Weaving.  I found the feedback from the judges helpful and encouraging.  I also learned from studying other weavings at Vesterheim and in Norway and reading books.
+After learning the basics of dressing my 6 harness, 20 inch table loom, I began studying the monk's belt technique. I entered competitions including the Vesterheim _National Exhibition of Folk Art in the Norwegian Tradition._  I found the feedback from the judges helpful and encouraging. I also learned from studying other weavings at Vesterheim and in Norway and reading books.
 
-My first entry in the Vesterheim Exhibition of Weaving was in 1983.  I earned my first white ribbon in 1986 and my Gold Medal of Honor in 1992.  In addition, I have earned blue ribbons at the Minnesota State Fair, at arts shows held in St. Cloud and Moorhead, Minnesota and at the International Sons of Norway Folk Art Show.
+My first entry in the Vesterheim exhibition was in 1983. I earned my first white ribbon in 1986 and my Gold Medal in 1992. In addition, I have earned blue ribbons at the Minnesota State Fair, at arts shows held in St. Cloud and Moorhead, Minnesota, and at the International Sons of Norway Folk Art Show.
 
-Since my mother's grandparents were from farms on the Nordfjord, I wear the bunad for that area.  Because I could weave I had the satisfaction of weaving my own apron and numerous decorative bands for the dress.  Women throughout Norway were weavers, but the Nordfjord is one of the few areas using so much weaving in its national costume.
+Since my mother's grandparents were from farms on the Nordfjord, I wear the bunad for that area. Because I could weave I had the satisfaction of weaving my own apron and numerous decorative bands for the dress. Women throughout Norway were weavers, but the Nordfjord is one of the few areas that uses so much weaving in its national costume.
 
-Although my weavings are for sale, I weave mainly because I enjoy the challenge of learning new techniques, working with colors and patterns and the satisfaction of completing a finely crafted wall hanging or table runner.  Although I use traditional Norwegian weaving techniques, I enjoy varying them somewhat and often use more contemporary colors.
+Although my weavings are for sale, I weave mainly because I enjoy the challenge of learning new techniques, working with colors and patterns and the satisfaction of completing a finely crafted wall hanging or table runner. Although I use traditional Norwegian weaving techniques, I enjoy varying them somewhat and often use more contemporary colors.
 
 - Rosemary Roehl, 2008

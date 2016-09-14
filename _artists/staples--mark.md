@@ -31,9 +31,8 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
+I had been doing a little woodworking when, in 1999, my sister Joanne MacVey came for a visit. She challenged me to try to make an _ambar._ After much experimenting I presented my _ambar_ and received her seal of approval. At that point a whole new world opened to me. Although I am not Norwegian heritage, I admired the beauty and skill of the work. I studied pieces at Vesterheim Museum and also museums in Norway. I wanted to keep my pieces as authentic as possible. 
 
-I had been doing a little woodworking when, in 1999 my sister, Joanne MacVey came for a visit. She challenged me to try to make an ambar. After much experimenting I presented my ambar and received her seal of approval. At that point a whole new world opened to me. Although I am not Norwegian heritage I admired the beauty and skill of the work. I studied pieces at the Vesterheim Museum and also museums in Norway. I wanted to keep my pieces as authentic as possible. 
-
-I entered the Nordic Fest competition at Vesterheim the first time in 2005. This was not am ambar but a replica of the Borgund Stave Church. I received a white ribbon and People’s Choice that year. After that my entries were either ale cups or ambars. I received my Gold Medal in 2013. 
+I entered the _National Exhibition of Folk Art in the Norwegian Tradition_ at Vesterheim for the first time in 2005. This was not an _ambar,_ but a replica of the Borgund Stave Church. I received a White Ribbon and People’s Choice Award that year. After that my entries were either ale cups or _ambars._ I received my Gold Medal in 2013. 
 
 Mark Staples, 2015

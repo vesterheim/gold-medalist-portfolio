@@ -50,12 +50,12 @@ pagelist:
   teaser:        # Defaults to page meta-description  
 ---
 How did you get involved in your field of Norwegian Folk Art?
-I got involved in woodcarving when I met wood carvers at my SON Noreg lodge 3-466.  I had carved a little before, but these men showed me the tools I needed and how to buy them.  They also gave me the initial direction I needed to learn how to carve in the Scandinavian Style.
+I got involved in woodcarving when I met wood carvers at my Sons of Norway, Noreg lodge 3-466. I had carved a little before, but these men showed me the tools I needed and how to buy them. They also gave me the initial direction I needed to learn how to carve in the Scandinavian Style.
 
 Does Norwegian folk art speak to your identify?
-My father was born in Sweden.  My wife's father was born in Norway and her mother's parents in Finland.  My father was a carpenter and builder and, as such, I grew up around wood and machines.  My wife's father was also a carpenter and a Norwegian wooden-boat builder.  My mother's side had the artists in the family.  Our families always celebrated our Scandinavian heritage.  I suspect that my heritage and background had influence on my becoming a woodcarver in the Scandinavian Style.
+My father was born in Sweden. My wife's father was born in Norway and her mother's parents in Finland. My father was a carpenter and builder and, as such, I grew up around wood and machines. My wife's father was also a carpenter and a Norwegian wooden-boat builder. My mother's side had the artists in the family. Our families always celebrated our Scandinavian heritage. I suspect that my heritage and background had influence on my becoming a woodcarver in the Scandinavian style.
 
 Who or what has influence your art the most?
-While woodcarving at my SON lodge, I learned of two famous woodcarvers that could teach me the skills that I needed to know about Scandinavian figure carving and relief carving.  I understood that these men had the reputations of being teachers of teachers.  So I took a week's class with Harley Refsal at Fletcher Farms, Vermont, to learn flat plane figure carving, and then 2 weekend sessions with Hans Sandom in Yorktown Heights, NY, to learn acanthus carving.  The skills that I learned from these men have greatly influenced my work. But, what has influenced my art the most is the doing of it.  Every time I complete a work I get better at carving.
+While woodcarving at my Sons of Norway lodge, I learned of two famous woodcarvers who could teach me the skills that I needed to know about Scandinavian figure carving and relief carving. I understood that these men had the reputations of being teachers of teachers. So I took a week-long class with Harley Refsal at Fletcher Farms, Vermont, to learn flat plane figure carving, and then two weekend sessions with Hans Sandom in Yorktown Heights, New York, to learn acanthus carving. The skills that I learned from these men have greatly influenced my work, but what has influenced my art the most is the doing of it. Every time I complete a work I get better at carving.
 
 - Carl Johnson, 2008

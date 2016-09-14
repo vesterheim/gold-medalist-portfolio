@@ -46,14 +46,14 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-My interest in the Norwegian folk art traces back to my high school years when my mother and I took rosemaling in an adult education class in nearby Forest City, Iowa.  At that time, I also had an opportunity to attend Skogfjorden Norwegian Language camp in Minnesota, where I dabbled with Norwegian crafts.  I had always done a lot of art work, but never had a formal class.  I enjoyed it, but did not take it any further.
+My interest in the Norwegian folk art traces back to my high-school years when my mother and I took rosemaling in an adult education class in nearby Forest City, Iowa. At that time, I also had an opportunity to attend Skogfjorden Norwegian Language camp in Minnesota, where I dabbled with Norwegian crafts. I had always done a lot of art work, but never had a formal class. I enjoyed it, but did not take it any further.
 
-Following high school, I attended Luther College in Decorah and while there, I took spinning lessons from Syvilla Bolson, Hardangersom from Grace Rikansrud, and rosemaling from Ruth Green.  Lila Nelson taught a weaving class and I was able to take that class while working at Vesterheim one summer.  While I enjoyed all of these arts, I still kept searching for the right fit.
+Following high school, I attended Luther College in Decorah and while there, I took spinning lessons from Syvilla Bolson, _Hardangersøm_ from Grace Rikansrud, and rosemaling from Ruth Green. Lila Nelson taught a weaving class and I was able to take that class while working at Vesterheim one summer. While I enjoyed all of these arts, I still kept searching for the right fit.
 
-Eventually I stumbled upon woodworking.  While accompanying friends of mine to their local carving class with instructor Slim Maroushek, I got hooked.  I studied with Slim for a year, and then when opportunities for weekend classes came along at Vesterheim, I took many classes from Harley Refsal, Gerald Ekern, and Becky Lusk, learning much from each.
+Eventually I stumbled upon woodworking. While accompanying friends of mine to their local carving class with instructor Slim Maroushek, I got hooked. I studied with Slim for a year, and then when opportunities for weekend classes came along at Vesterheim, I took many classes from Harley Refsal, Gerald Ekern, and Becky Lusk, learning much from each.
 
-After carving figures for many years, I decided to try my hand at Acanthus carving and have been taking classes from Hans Sandom.  Becky Lusk and her creations also got me interested in trying my hand at carving ale bowls, which I enjoy immensely.
+After carving figures for many years, I decided to try my hand at acanthus carving and have been taking classes from Hans Sandom. Becky Lusk and her creations also got me interested in trying my hand at carving ale bowls, which I enjoy immensely.
 
-These last years I have been inspired by the old folk art pieces that I have studied in Vesterheim's collection and from books and trips to Norway.  These artifacts that have survived the ravages of time fascinate me.  The amount of time and work that went into them, which is amazing considering the few tools that these early artists had at their disposal.  I now seek pieces of Norwegian folk art in other mediums that can be transferred to my own favorite--wood.   
+These last years I have been inspired by the old folk-art pieces that I have studied in Vesterheim's collection and from books and trips to Norway. These artifacts that have survived the ravages of time fascinate me. The amount of time and work that went into them, which is amazing considering the few tools that these early artists had at their disposal. I now seek pieces of Norwegian folk art in other mediums that can be transferred to my own favorite—wood.   
 
 - Rebecca Hanna, 2008

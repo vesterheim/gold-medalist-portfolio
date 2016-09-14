@@ -42,6 +42,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-Weaving Norwegian techniques with traditional materials came about after I had learned various other weaving techniques in Swedish, Pennsylvanian, and early English methods. Some of the early Norwegian textiles influence my work primarily in the area of color and history of use. The greatest influence in my  weaving techniques has been the folk art classes and the Textile Tours sponsored by the Vesterheim.
+Weaving Norwegian techniques with traditional materials came about after I had learned various other weaving techniques in Swedish, Pennsylvanian, and early English methods. Some of the early Norwegian textiles influence my work primarily in the area of color and history of use. The greatest influence in my weaving techniques has been Vesterheim's folk-art classes and textile tours fo Norway.
 
 -Veronna Capone, 2015

@@ -50,12 +50,12 @@ pagelist:
   teaser:        # Defaults to page meta-description  
 ---
 How did you get involved in your field of Norwegian folk art?
-I had an early interest in art, my parents noticed.  I had a supply of oils, shortly.  I helped my father Hans Simonson, a Norwegian immigrant paint his carvings and started to rosemal.  I kept at this until I started to attend Vesterheim's Rosemaling classes.
+I had an early interest in art, my parents noticed. I had a supply of oils, shortly. I helped my father Hans Simonson, a Norwegian immigrant paint his carvings and started to paint rosemaling. I kept at this until I started to attend Vesterheim's rosemaling classes.
 
 Does Norwegian folk art speak to your identity?
- I feel this is part of my heritance from my Norwegian family.  I feel like I am "at home" when I create.
+I feel this is part of my heritance from my Norwegian family. I feel like I am "at home" when I create.
 
 Who or what has influenced your art the most?
-My family first of all, the carvings, the smell of wood, support of my husband.  The teachers from Norway and America.  When I saw Sigmund, Knut Anderson and Nils paint freehand, that is what appealed to me the most and strengthen my aim to be equal with the rest of my peers, not to win ribbons, but to know they were good pieces.  I still marvel that I am a gold medalist.
+My family first of all, the carvings, the smell of wood, support of my husband. The teachers from Norway and America  When I saw Sigmund Aarseth, Knut Anderson, and Nils Ellingsgard paint freehand, that is what appealed to me the most and strengthened my aim to be equal with the rest of my peers, not to win ribbons, but to know they were good pieces. I still marvel that I am a Vesterheim Gold Medalist.
 
 - Jean Giese, 2008

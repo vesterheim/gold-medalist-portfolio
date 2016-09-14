@@ -49,6 +49,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-My mother and her brother, Paul Agrimson, started my woodcarving career in 1985.  My uncle gave a Kubbestol blank to carve!  Our tools were hand-made from old files and saw blades.  I soon realized, being a slow-learning Norwegian; it would take several lifetimes to carve the Acanthus plant.  That began the search for carving classes.  I have learned from eleven instructors in subjects that range from carving to painting in the Norwegian tradition.  After retirement I opened a wood carving shop in Minneiska, Minnesota in 1990 and still enjoy the challenge and taking more classes.
+My mother and her brother, Paul Agrimson, started my woodcarving career in 1985. My uncle gave me a _kubbestol_ blank to carve! Our tools were hand-made from old files and saw blades. I soon realized, being a slow-learning Norwegian, it would take several lifetimes to carve the acanthus style. That began the search for carving classes. I have learned from 11 instructors in subjects that range from carving to painting in the Norwegian tradition. After retirement in 1990, I opened a woodcarving shop in Minneiska, Minnesota, and still enjoy the challenge and taking more classes.
 
 - Marlyn Langseth, 2008

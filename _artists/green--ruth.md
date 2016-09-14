@@ -42,7 +42,8 @@ pagelist:
 ---
 I was introduced to rosemaling in a community education class, but the information was limited. After moving to Decorah in 1976, I was fortunate to be able to take a class with Vi Thode at Vesterheim in the spring of 1977. After that, I was hooked. The Rogaland style fit my personality and the way I enjoy painting. Vi Thode’s sense of color and design construction appealed to me and gave me the start to develop my own style.
 
-My ethic background is Norwegian, so rosemaling seemed to be good fit. I didn’t grow up around rosemaling however, but studying the folk art has given me an appreciation for my Norwegian “roots.” Both of my grandmothers painted- one canvas painting with scenery and animals as her subjects, and the other, her own version of folk art figures. I think of each of them as I continue with rosemaling.
+My ethic background is Norwegian, so rosemaling seemed to be a good fit. I didn’t grow up around rosemaling, but studying the folk art has given me an appreciation for my Norwegian “roots.” Both of my grandmothers painted—one, canvas painting with scenery and animals as her subjects, and the other, her own version of folk-art figures. I think of each of them as I continue with rosemaling.
 
-After many years of not entering the Nordic Fest rosemaling competition, I was encouraged by Marilyn Olin to enter pieces in 2011. To my surprise and delight I earned ribbons. As a result of that encouragement, I entered again in 2012 and was awarded the Gold Medal. I feel very honored to represent rosemaling as a Gold Medalist. 
-s
+After many years of not entering the Nordic Fest rosemaling exhibition, I was encouraged by Marilyn Olin to enter pieces in 2011.To my surprise and delight I earned ribbons. As a result of that encouragement, I entered again in 2012 and was awarded the Gold Medal. I feel very honored to represent rosemaling as a Gold Medalist. 
+
+-Ruth Green

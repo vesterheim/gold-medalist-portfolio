@@ -49,15 +49,12 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
+Art was Gayle’s minor, Home Economics Education was her major in college. Never in her wildest dreams did she imagine traveling across America and to different countries to teach painting. Gayle first encountered rosemaling in 1977 when the family moved to Petersburg, Alaska. The quaint Norwegian fishing settlement had rosemaling painted on store fronts and Sons of Norway. She had been decorative painting, but was so taken by the rosemaling she started researching and teaching it. Without any Norwegian heritage in her background, this passion led her to Norway on the Vesterheim rosemaling tours to study the history, styles, and travel.
 
-Art was Gayle’s minor, Home Economics Education her major in college.  Never in her wildest dreams did she imagine traveling across America and to different countries to teach painting.  Gayle first encountered Rosemaling in 1977 when the family moved to Petersburg, Alaska.  The quaint Norwegian fishing settlement had  Rosemaling painted on store fronts and Son’s of Norway.  She had been decorative painting, but was so taken by the rosemaling she started researching and teaching.    Without any Norwegian heritage in her background, this passion led her to Norway to study the history, styles and travel on the Vesterheim Rosemaling tours.
+In 1980 Gayle started making a line of clocks and unique wooden objects for rosemaling and decorative painting. In 1998 a breast cancer diagnosis doctors said she must slow down, allowing more time for design and painting.  
 
-In 1980 Gayle started making a line of clocks and unique wooden objects for Rosemaling and decorative painting.  In 1998 a breast cancer diagnosis  doctors said she must slow down, allowing more time for design and painting.  
+Gayle passed the MDA certification through the Society of Decorative Painters in 1980 and has been a judge for over 30 years. The wonderful program encourages people study, learn, and achieve something very special. In 2000 Gayle received a Gold Medal from Vesterheim after many years of working toward that goal.  
 
-Gayle passed the MDA certification through the Society of Decorative Painters in 1980 and has been a judge for over 30 years.  The wonderful program encourages people study, learn and achieve something very special.  In 2000 Gayle received a gold medal from Vesterheim after many years of working toward that goal.  
+Gayle has conducted seminars in the United States, Japan, South Korea, and Taiwan, along with local classes and conventions. Between writing books, Gayle has written numerous packets, and finished four levels of a rosemaling correspondence course in 2013. The project covers 13 styles from very beginning instructions and lesser known simple styles, working up to the most complex in level IV, including design techniques and critiques. 
 
-Gayle has conducted seminars in the US,  Japan, South Korea and Taiwan, along with local classes and conventions.  Between writing books, Gayle has written numerous packets, and finished four levels of a Rosemaling Correspondence course in 2013.  The project covers 13 styles from the very beginning instructions and lesser known simple styles, working up the most complex in level IV,  including design techniques and critiques. 
-
-In 2007 Gayle moved to the home where she grew up, to care for her 98-year-old mother.   The old chicken house was renovated for a studio/shop.  She continues painting, seminars, weekly classes and some travel teaching as time allows with her new responsibilities.
-
-See her website for more information: gayleoram.com
+In 2007 Gayle moved to the home where she grew up to care for her 98-year-old mother.   The old chicken house was renovated for a studio/shop. She continues painting, seminars, weekly classes, and some travel teaching as time allows with her new responsibilities.

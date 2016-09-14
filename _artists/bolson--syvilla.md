@@ -9,7 +9,7 @@ medals:
   - discipline: Weaving
     year: 2009
 occupation: Retired Teacher
-life_dates: Birth 1928 in Worth County, IA and death 2011
+life_dates: Birth 1928 in Worth County, Iowa, and death 2011
 ribbons:
   - color: White
     year: 1982
@@ -49,7 +49,7 @@ pagelist:
 ---
 I am a native of Joice, Iowa, but have been living in Decorah, Iowa, for many years. My degree is from Luther College with additional studies through University of Iowa. I have been weaving since 1973. I’ve studied with American Nacy Harvey, Finnish-Canadian Pirkko Karvonen, and Norwegians Elsa Bjork, Marit Anny Tvenge, Anne Holden, Liv Bugge, Ase Froysedal, and Greta Bodogaard. 
 
-My work has been exhibited at many invitational and solo shows, including five solo shows at Luther College, my alma mater. I’ve enjoyed doing commission work to hang in private homes and public buildings in the Midwest and West. “Windows of Learning” is at Luther College (Koren Hall) and “Creation” is in the Methodist Church in Caledonia, Minnesota. One of my most recent commissions, titles “Wondrous Cross,” hangs in the chapel of the Knute Nelson Memorial Home in Alexandria, MN. 
+My work has been exhibited at many invitational and solo shows, including five solo shows at Luther College, my alma mater. I’ve enjoyed doing commission work to hang in private homes and public buildings in the Midwest and West. _Windows of Learning_ is at Luther College (Koren Hall) and _Creation_ is in the Methodist Church in Caledonia, Minnesota. One of my most recent commissions, titles _Wondrous Cross,_ hangs in the chapel of the Knute Nelson Memorial Home in Alexandria, Minnesota. 
 
 My special interest in weaving reflects the Norwegian tradition. With my background and keen interest in Norwegian art history including folk art, it is exciting to study techniques that have been used for hundreds of years, both of utilitarian and decorative purposes. Tradition and skills have been passed from one generation to the next, even though something new may have been created as an extension of what others had made.
 

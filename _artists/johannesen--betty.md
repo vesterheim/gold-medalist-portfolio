@@ -49,6 +49,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-I have been weaving for close to forty years.  After all of this time, each warp is still a challenge with its own set of problems to be solved.  Each item from my loom is one of a kind and each is designed to solve a new problem.  This approach keeps the process of designing and weaving from becoming an automatic procedure.  For me, the designing and successful execution of a textile is far more interesting than the finished product.  One of my beginning students once commented "weaving requires the use of both sides of the brain".
+I have been weaving for close to 40 years. After all of this time, each warp is still a challenge with its own set of problems to be solved. Each item from my loom is one of a kind and each is designed to solve a new problem. This approach keeps the process of designing and weaving from becoming an automatic procedure. For me, the designing and successful execution of a textile is far more interesting than the finished product. One of my beginning students once commented, "weaving requires the use of both sides of the brain."
 
 -Betty Johannesen, 2008

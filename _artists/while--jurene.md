@@ -49,12 +49,12 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-Jurene has studied under Norwegian, United States and British masters of folk art.  Among her instructors from Norway are Nils Ellingsgard, Sigmund Aarseth, Eli Saelid, Bergljot Lunde, Gunnar B¯, Ragnvald Fr¯ysadal, Sigrid Midjas Heisholt and Oskar Kjestaa.  Her instructors in the United States have been Jo Sonja Jansen, Florence Buck, Eldrid Arntzen, Diane Edwards, Lois Mueller and Kari Petersen.  The instructors she had in Briton were Brian Collings (narrow boat folk artist) and Peter Ingram (Gypsy folk artist).
+Jurene has studied under Norwegian, American, and British masters of folk art. Among her instructors from Norway are Nils Ellingsgard, Sigmund Aarseth, Eli Saelid, Bergljot Lunde, Gunnar Bø, Ragnvald Frøysadal, Sigrid Midjas Heisholt, and Oskar Kjestaa. Her instructors in the United States have been Jo Sonja Jansen, Florence Buck, Eldrid Arntzen, Diane Edwards, Lois Mueller, and Kari Petersen. The instructors she had in Britain were Brian Collings (narrow boat folk artist) and Peter Ingram (Gypsy folk artist).
 
-Jurene specializes in Norwegian rosemaling and earned her Gold Medal in 2002 from the Vesterheim Norwegian-American Museum in Decorah, Iowa.  She has taught "Folk art from around the world" in Adult Ed system in La Mesa.  Jurene has taught rosemaling since 1979.  In 1987 she founded the California Rosemalers Association. She travels, teaches, and has written "Shared Moments" and "Script and Stroke" plus numerous articles for magazines such as Tole World, Artist's Journal and Decorative Painter.  She has painted pieces in the Smithsonian Institution as well as the White House.
+Jurene specializes in Norwegian rosemaling and earned her Gold Medal in 2002. She has taught "folk art from around the world" in the adult ed system in La Mesa. Jurene has taught rosemaling since 1979. In 1987 she founded the California Rosemalers Association. She travels, teaches, and has written _Shared Moments_ and _Script and Stroke,_ plus numerous articles for magazines such as _Tole World,_ _Artist's Journal,_ and _Decorative Painter._  She has painted pieces in the Smithsonian Institution as well as the White House.
 
 Some of her wood pieces are made by Richard, her husband and business partner.
 
 Jurene hopes you enjoy her work as much as she enjoyed painting it. 
 
-- Jurene While, excerpt from Heritage Painter
+- Jurene While, excerpt from _Heritage Painter_

@@ -8,7 +8,7 @@ state: Minnesota
 medals: 
   - discipline: Woodworking
     year: 2001
-occupation: Technology Education Teacher, St. Paul, MN
+occupation: Technology Education Teacher, St. Paul, Minnesota
 life_dates: Born 1943, Waukegan, Illinois
 ribbons:
   - color: Red
@@ -49,10 +49,10 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-I have always enjoyed working with my hands building things.  Prior to our family's first visit to Norway in 1983 I was a motor head.  That visit included a number of days spent at the home farm of my father's grandfather (who helped raise my father here in the U.S.A.).  We also visited the home of his grandmother, which was located a couple of miles away.  After the trip, conversations with family friends in Fergus Falls led us to the 1984 Nordic Fest.  Those two experiences started the conversion from motor head to woodworker.
+I have always enjoyed working with my hands building things. Prior to our family's first visit to Norway in 1983 I was a motor head. That visit included a number of days spent at the home farm of my father's grandfather (who helped raise my father here in the Untied States). We also visited the home of his grandmother, which was located a couple of miles away. After the trip, conversations with family friends in Fergus Falls led us to the 1984 Nordic Fest. Those two experiences started my conversion from motor head to woodworker.
 
-My card identifies me as an "Eclectic woodworker."  I am fascinated by the incredible variety of wooden objects that can fall into the realm of a wood based society such as Norway.  I happily suffer from P.D.D. (Project deficit disorder).
+My card identifies me as an "eclectic woodworker." I am fascinated by the incredible variety of wooden objects that can fall into the realm of a wood-based society such as Norway. I happily suffer from P.D.D. (project deficit disorder).
 
-When the list of names of people who influenced my work reached over 15 I decided it best not to name names.  As with many friends and many years, their impact was at times dramatic, at times subtle, at times immediate, and at times delayed.  For those of us fortunate enough to have known him, if I were to name the one person who started me on this wonderful journey, it would be Ragnvald Fr¯ysadal of Hundrop, Norway. 
+When the list of names of people who influenced my work reached over 15, I decided it best not to name names. As with many friends and many years, their impact was at times dramatic, at times subtle, at times immediate, and at times delayed. For those of us fortunate enough to have known him, if I were to name the one person who started me on this wonderful journey, it would be Ragnvald Frøysadal of Hundrop, Norway. 
 
 - Richard Enstad, 2008

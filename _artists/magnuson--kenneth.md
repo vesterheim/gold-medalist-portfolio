@@ -49,12 +49,12 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-My first exposure to rosemaling was Christmas 1975 when I received Sigmund Aarseth's first book.  I thought one should be able to read the book, buy some brushes and paint, and go to work producing master pieces.  How wrong I was.  I learned early on how important it is to start with the right teacher.  Someone who knows the basics and is able to tell the student what they are doing wrong, and how it should be corrected.  We all need constructive criticism to improve our rosemaling.
+My first exposure to rosemaling was Christmas 1975 when I received Sigmund Aarseth's first book. I thought I should be able to read the book, buy some brushes and paint, and go to work producing master pieces. How wrong I was. I learned early on how important it is to start with the right teacher. Someone who knows the basics and is able to tell the student what they are doing wrong, and how it should be corrected. We all need constructive criticism to improve our rosemaling.
 
-Having studied several styles of rosemaling, I settled on Hallingdal as my favorite style.  Partly because of my heritage, but also I like the symmetrical designs and the bold colors.  It was in Hallingdal that I received points toward my Gold medal.
+Having studied several styles of rosemaling, I settled on Hallingdal as my favorite style. Partly because of my heritage, but also I like the symmetrical designs and the bold colors. It was in Hallingdal that I received points toward my Gold Medal.
 
-Since taking Turid Fatland's class in painting odd shaped bowls, my interest has changed.  Her style of Telemark used to fill the spaces of these bowls is exciting and challenging.
+Since taking Turid Fatland's class in painting odd shaped bowls, my interest has changed. Her style of Telemark used to fill the spaces of these bowls is exciting and challenging.
 
-My advice is to pick a style you like and try to perfect it, but don't be so close minded that you miss an opportunity to learn a new style or technique that may change your whole outlook on rosemaling.
+My advice is to pick a style you like and try to perfect it, but don't be so close-minded that you miss an opportunity to learn a new style or technique that may change your whole outlook on rosemaling.
 
 - Ken Magnuson, 2008

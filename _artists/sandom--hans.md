@@ -48,6 +48,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-I have always had an interest in carving since I was a young boy.  To answer the question of whether of not Norwegian folk art speaks to my identity, it both does and does not, as do appreciate good art and it does not necessarily have to be Norwegian folk art.  My uncle Sigurd Sandom was the carver in our family in Norway.  I was exposed to his carvings as a boy, but, at that time, there was no money for tools.  All I had was a knife.  I started carving a bit when I came to the U.S. as a hobby and then I met Leif Melgaard.  Leif's carving inspired me to get more involved and he was also a very good mentor.  I also read Johan Amrud's book and met him in Norway several times.
+I have always had an interest in carving since I was a young boy. To answer the question of whether of not Norwegian folk art speaks to my identity, it both does and does not. I do appreciate good art and it does not necessarily have to be Norwegian folk art. My uncle Sigurd Sandom was the carver in our family in Norway. I was exposed to his carvings as a boy, but, at that time, there was no money for tools. All I had was a knife. I started carving a bit when I came to the U.S. as a hobby and then I met Leif Melgaard. Leif's carving inspired me to get more involved and he was also a very good mentor. I also read Johan Amrud's book and met him in Norway several times.
 
 -Hans Sandom, 2008

@@ -55,6 +55,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-My favorite styles are Hallingdal and Os.  I admire Nils Bera the most.  Rosemaling has enriched my life, and I have had a wonderful time through this Norwegian art.  I appreciate many Gold Medalists who inspired me and the wonderful people I met in the United States.
+My favorite styles are Hallingdal and Os. I admire Nils Bera the most. Rosemaling has enriched my life, and I have had a wonderful time through this Norwegian art. I appreciate many Gold Medalists who inspired me and the wonderful people I met in the United States.
 
 - Naoko Seto, 2008

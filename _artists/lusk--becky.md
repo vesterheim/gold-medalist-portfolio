@@ -55,6 +55,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-I began carving at the age of 14. I was inspired by my maternal grandfather, Hans Simonson, a woodcarver and an immigrant from Norway and encouraged by my parents, Edwin and Jean Giese. Although I started out carving figures, I have branched out into acanthus, dragonstil, ale bowls/hens, and kolrosing. Norwegian Folk Art Woodcarving is so much a part of me and my life that I don't know what I would do without it. It is my link to the past, especially those carvers in my family that had to make-do with what they could make with their own hands. It is very satisfying to carve a piece of art out of a chunk of wood. It is my way of showing who I am, without using words.
+I began carving at the age of 14. I was inspired by my maternal grandfather, Hans Simonson, a woodcarver and an immigrant from Norway and encouraged by my parents, Edwin and Jean Giese. Although I started out carving figures, I have branched out into acanthus, _dragonstil,_ ale bowls/hens, and _kolrosing._ Norwegian Folk Art Woodcarving is so much a part of me and my life that I don't know what I would do without it. It is my link to the past, especially those carvers in my family who had to make-do with what they could make with their own hands. It is very satisfying to carve a piece of art out of a chunk of wood. It is my way of showing who I am, without using words.
 
 - Becky Lusk, 2008

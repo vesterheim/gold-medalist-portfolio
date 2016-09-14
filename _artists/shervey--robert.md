@@ -51,15 +51,14 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
+My interest in Norwegian knives started long ago when my neighbor received a Norwegian knife from his grandfather. His grandfather had gone to Norway and returned with knives for his grandsons.
 
-My interest in Norwegian knives started long ago when my neighbor received a Norwegian knife from his Grandfather. His grandfather had gone to Norway and returned with knives for his grandsons.
-
-On my first visit to Norway I purchased knives for my two sons too. I didn’t buy one for myself but decided to make my own.
+On my first visit to Norway I purchased knives for my two sons, too. I didn’t buy one for myself but decided to make my own.
 
 It’s been a very adventurous hobby for me.
 
-Knife making is a big hobby in Norway. Making knives helps define my Norwegian roots.
+Knifemaking is a big hobby in Norway. Making knives helps define my Norwegian roots.
 
-Gene Tokhiem has been a steady influence. Entering the Folk Art Competition and taking classes at Vesterheim has also influenced my art form. 
+Gene Tokhiem has been a steady influence. Entering the _National Exhibition of Folk Art in the Norwegian Tradition_ and taking classes at Vesterheim has also influenced my art form. 
 
 Robert Shervey, 2015

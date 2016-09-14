@@ -46,6 +46,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-Rosemaling speaks to my roots as I practically lived with my second-generation Norwegian grandparents who lived on our farm.  I had previously taken classes on calligraphy and sewing before beginning painting in 1977.  I have studied with many Norwegian and Gold Medalist painters, including: Oskar Kjetsaa, Nils Ellingsgard, Gunnar B¯, John Gundersen, Dorothy Peterson, Karen Jenson, and Addie Pittelkow.  I have enjoyed my association with Scandinavian Handcrafts as a rosemaling sales outlet and great rosemaling input!
+Rosemaling speaks to my roots as I practically lived with my second-generation Norwegian grandparents who lived on our farm. I had previously taken classes on calligraphy and sewing before beginning painting in 1977. I have studied with many Norwegian and Gold Medalist painters, including Oskar Kjetsaa, Nils Ellingsgard, Gunnar Bø, John Gundersen, Dorothy Peterson, Karen Jenson, and Addie Pittelkow. I have enjoyed my association with Scandinavian handcrafts as a rosemaling sales outlet and great rosemaling input!
 
--Shirley Evenstad, 1983, excerpt from Vesterheim Rosemaling Newsletter Vol. XIII no. 4
+-Shirley Evenstad, 1983, excerpt from Vesterheim _Rosemaling Newsletter Vol. XIII no. 4_

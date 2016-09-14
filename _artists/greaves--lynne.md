@@ -43,6 +43,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-I got involved in Norwegian folk art because I am of Swedish descent, so all Scandinavian weaving is very appealing.  My friend Ruth Duker was a big influence.  She was also a friend of Lila.  Ruth was German but we both loved Scandinavian weaving.
+I got involved in Norwegian folk art because I am of Swedish descent, so all Scandinavian weaving is very appealing. My friend Ruth Duker was a big influence. She was also a friend of Lila Nelson. Ruth was German but we both loved Scandinavian weaving.
 
 - Lynne Greaves, 2008

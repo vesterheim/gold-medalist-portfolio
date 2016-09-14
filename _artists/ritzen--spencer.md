@@ -46,6 +46,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-I have always been interested in my heritage, which is primarily Finnish, with some Swedish.  It seems all of my friends are of primarily Norwegian descent ("I am a Finnish island in a sea of Norwegians"), so consequently, I gravitated more to Norwegian Folk Arts.  Gene Tokheim has been a good friend for many years and when he began holding Norwegian knifemaking classes, I had little choice but to join in.  I found that I had some talent in this area and combing that with heritage was wonderfully fulfilling.  It seemed to strengthen ties between me and my ancestors.  Gene has been my single biggest influence, but I have also met many talented and interesting people while participating in this art. 
+I have always been interested in my heritage, which is primarily Finnish, with some Swedish. It seems all of my friends are of primarily Norwegian descent ("I am a Finnish island in a sea of Norwegians"), so consequently, I gravitated more to Norwegian folk art. Gene Tokheim has been a good friend for many years and when he began holding Norwegian knifemaking classes, I had little choice but to join in. I found that I had some talent in this area and combining that with heritage was wonderfully fulfilling.  It seemed to strengthen ties between my ancestors and me. Gene has been my single biggest influence, but I have also met many talented and interesting people while participating in this art. 
 
 - Spencer Ritzen, 2008

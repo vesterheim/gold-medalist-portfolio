@@ -52,14 +52,14 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-Having grown up only 10 miles from Decorah I was exposed to "Norwegian Art" at a fairly early age.  In the late 60's and early 70's rosemaling was very popular and I took classes that were offered at Vesterheim and evening Adult Education classes which were taught locally by different instructors.  So it was actually rosemaling that got me started.
+Having grown up only 10 miles from Decorah, I was exposed to "Norwegian Art" at a fairly early age. In the late 60s and early 70s, rosemaling was very popular and I took classes that were offered at Vesterheim and evening adult education classes that were taught locally by different instructors. So it was actually rosemaling that got me started.
 
-In 1976, after traveling through Europe, I ended up living and working in Fagernes, Norway for a time.  It was there that I was exposed to acanthus carving.  I loved the look of it and wanted to learn how it was done.  I was fortunate that Norway also had Adult Education classes and it was there that I took my first class and became hooked on Acanthus carving. I was the first non-Norwegian that the instructor, Ole Kjos, an incredible carver, had in his class.  I am quite positive that after seeing my dismissal attempts at carving, he hoped that he would never have another "foreigner" sign up!  But the seed was planted.
+In 1976, after traveling through Europe, I ended up living and working in Fagernes, Norway, for a time. It was there that I was exposed to acanthus carving. I loved the look of it and wanted to learn how it was done. I was fortunate that Norway also had adult education classes and it was there that I took my first class and became hooked on Acanthus carving. I was the first non-Norwegian that the instructor, Ole Kjos, an incredible carver, had in his class. I am quite positive that after seeing my dismissal attempts at carving, he hoped that he would never have another "foreigner" sign up! But the seed was planted.
 
-After my return to the United States it was not until 1995 that I was able to once again try my hand at acanthus carving.  Back in Decorah I signed up for a class of beginning acanthus carving at Vesterheim with Hans Sandom.  What an incredible class that was.  I told Hans (thinking he might be impressed) that I had taken a class in 1976 in Norway. His response was, "Well, it should have soaked in by now."
+After my return to the United States, it was not until 1995 that I was able to once again try my hand at acanthus carving. Back in Decorah I signed up for a class of beginning acanthus carving at Vesterheim with Hans Sandom. What an incredible class that was. I told Hans (thinking he might be impressed) that I had taken a class in 1976 in Norway. His response was, "Well, it should have soaked in by now."
 
-It hadn't, but with Hans's help it did.  The smell of the wood, the sharpness of the tools and getting the wood to work for you are all things that he has taught me. Taking classes under Hans for many years is the only reason that I have gotten to the level that I am at.
+It hadn't, but with Hans's help it did. The smell of the wood, the sharpness of the tools and getting the wood to work for you are all things that he has taught me. Taking classes under Hans for many years is the only reason that I have gotten to the level that I am at.
   
-Hans has taken Acanthus carving to an entirely new level and I consider myself fortunate to have him as an instructor, mentor and friend.
+Hans has taken acanthus carving to an entirely new level and I consider myself fortunate to have him as an instructor, mentor and friend.
      
 - Kim Glock, 2008

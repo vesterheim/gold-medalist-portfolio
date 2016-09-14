@@ -52,6 +52,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-Rosemaling has opened a new world to me and my family.  It has allowed us to meet people from all over the world that have similar interests in painting.  I have been invited to travel teach throughout the US, Canada, and Taiwan to share my love of this art form.  In high school and college, I was interested in writing and, again, rosemaling has provided an opportunity to fulfill this dream when writing rosemaling instructional books.  Rosemaling is something that I will be doing for the rest of my life.
+Rosemaling has opened a new world to me and my family. It has allowed us to meet people from all over the world that have similar interests in painting. I have been invited to travel teach throughout the United States, Canada, and Taiwan to share my love of this art form. In high school and college, I was interested in writing and, again, rosemaling has provided an opportunity to fulfill this dream when writing rosemaling instructional books. Rosemaling is something that I will be doing for the rest of my life.
 
 - Lois Mueller, 2008

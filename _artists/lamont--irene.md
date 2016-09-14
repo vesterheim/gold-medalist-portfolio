@@ -55,16 +55,16 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-Rosemaling has a special meaning for me as my paternal grandparents immigrated from Telemark and my maternal grandparents came from Voss, Norway.  They brought a rosemaled trunk and a tine with them to the new land.  My style of painting is a mix of both styles, defining my roots.
+Rosemaling has a special meaning for me as my paternal grandparents immigrated from Telemark and my maternal grandparents came from Voss, Norway. They brought a trunk with rosemaling and a _tine_ with them to the new land. My style of painting is a mix of both styles, defining my roots.
 
-My first experience in a Rosemaling class was in 1960.   After viewing an exhibit painted by one of our first Gold Medalists, Violet Christopherson, I enrolled in her class at the Marinette, Wisconsin technical school.  She introduced us to the West Coast Per Lysne style and also the Telemark style of Rosemaling.  
+My first experience in a rosemaling class was in 1960. After viewing an exhibit painted by one of our first Gold Medalists, Violet Christopherson, I enrolled in her class at the Marinette, Wisconsin, technical school. She introduced us to the West Coast Per Lysne style and also the Telemark style of rosemaling.  
 
-After moving to Kaukauna, Wisconsin, in 1972, I was asked to teach a class at the local vocational school.  Realizing that I needed additional training, I enrolled in classes at Vesterheim, The Norwegian American Museum in Decorah, Iowa.  They brought wonderful Norwegian painters from Norway, who gave their very best skills and knowledge to eager American folk artists.
+After moving to Kaukauna, Wisconsin, in 1972, I was asked to teach a class at the local vocational school. Realizing that I needed additional training, I enrolled in classes at Vesterheim Norwegian-American Museum in Decorah, Iowa. They brought wonderful Norwegian painters from Norway, who gave their very best skills and knowledge to eager American folk artists.
 
-The artist who influenced my work the most was Sigmund Aarseth.  He introduced me to the Telemark style of painting, done in a transparent, free hand style, offering a freedom from patterns. 
+The artist who influenced my work the most was Sigmund Aarseth. He introduced me to the Telemark style of painting, done in a transparent, free-hand style, offering a freedom from patterns. 
 
-In 1980 I sent in my first entry to the National Rosemaling Show at Decorah.  In 1981 I received a runner up award and continued to win awards each year, acquiring a total of 11 points; receiving the gold medal award in 1985. 
+In 1980 I sent in my first entry to the national rosemaling exhibition at Vesterheim. In 1981 I received a runner-up award and continued to win awards each year, acquiring a total of 11 points; receiving the Gold Mdal in 1985. 
 
-Some of my greatest joys have been studying all the wonderful styles of Rosemaling offered by Vesterheim, meeting fellow painters, and sharing ideas and information.  The Nordic Fest gives us an opportunity to renew old friendships and take in the ever-new stimulus from the top ethnic museum in the country!
+Some of my greatest joys have been studying all the wonderful styles of rosemaling offered by Vesterheim, meeting fellow painters, and sharing ideas and information. Nordic Fest in Decorah gives us an opportunity to renew old friendships and take in the ever-new stimulus from the top ethnic museum in the country!
 
 - Irene Lamont, 2008

@@ -71,15 +71,15 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-Virgil learned to carve from his Norwegian father-in-law, Ed Eiseth.  He has been carving for about 60 years. Over the years, he has taken several classes at Vesterheim from teachers from Norway and from Harley Refsal.
+Virgil learned to carve from his Norwegian father-in-law, Ed Eiseth. He has been carving for about 60 years. Over the years, he has taken several classes at Vesterheim from teachers from Norway and from Harley Refsal.
  
-Any day that Virgil can't carve is day that he feels is a wasted day.  Carving is a big part of his life and it's who he is.  He of course does everything by hand with no power.  He does all of his carving in the living room.  He does acanthus, relief, chip, flat plane, and in the round; all things Norwegian.
+Any day that Virgil can't carve is day that he feels is a wasted day. Carving is a big part of his life and it's who he is. He, of cours,e does everything by hand with no power. He does all of his carving in the living room. He does acanthus, relief, chip, flat plane, and in the round—all things Norwegian.
  
-Virgil had a piece on tour in Norway for a year and in several countries, Norway included, and in almost every state, even Alaska.  Virgil has also helped many people start carving and they have gone on to be very good carvers themselves.  He also makes all of his own carving knives.
+Virgil had a piece on tour in Norway for a year and in several countries and in almost every state, even Alaska. Virgil has also helped many people start carving and they have gone on to be very good carvers themselves. He also makes all of his own carving knives.
  
-In 2000, Virgil took first place, best of show, and people's choice, while also receiving a blue ribbon and his gold medal with a knife carved in ivory and ebony. He took first and second with two other knives before 2000.  The knives he makes in his own shop, of course.  He does everything but the blades.  Most of the blades he uses are made by Havard Bergland.  
+In 2000, Virgil took first place, best of show, and people's choice, while also receiving a Blue Ribbon and his Gold Medal with a knife carved in ivory and ebony. He took first and second with two other knives before 2000. The knives he makes in his own shop.  He does everything but the blades. Most of the blades he uses are made by Håvard Bergland.  
  
-Winning a gold medal is not an easy thing.  It requires a lot of hard work and not giving up, because you know that deep down, you can do it.  You just have to keep trying and do it your way, because it is well worth the effort.  
+Winning a Gold Medal is not an easy thing. It requires a lot of hard work and not giving up, because you know that deep down, you can do it. You just have to keep trying and do it your way, because it is well worth the effort.  
  
 Al Amundson and Jack Thompson of Decorah have been such a huge help in so many ways to Virgil over the years.
 

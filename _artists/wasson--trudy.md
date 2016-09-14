@@ -47,12 +47,12 @@ pagelist:
   teaser:        # Defaults to page meta-description  
 ---
 How did you get involved in your field of Norwegian folk art? 
-I got involved in Rosemaling because I had seen several pieces in homes of my relatives and ancestors during my first trip to Norway in 1971. I wanted to learn to rosemal so I could paint something for my children that would reflect their Norwegian heritage.
+I got involved in rosemaling because I had seen several pieces in homes of my relatives and ancestors during my first trip to Norway in 1971. I wanted to learn to paint rosemaling so I could paint something for my children that would reflect their Norwegian heritage.
  
-Does Norwegian folk art speak to your identity?  In what way? 
-Definitely! I am first generation American on my dad's side and 2nd on my mother's side. Norwegian is my identity. I enjoy all things Norwegian and do them, too....knitting, Hardanger, Klostersom, rosemaling, food, etc. Now, it is quilting rosemaling because I have enjoyed sewing and working with fabric all my life. I am working on my third rosemaling applique quilt and plan to do even more. My free motion machine quilting is totally based on my rosemaling background. I would like to paint a rosemaling design on fabric and then quilt it.
+Does Norwegian folk art speak to your identity? In what way? 
+Definitely! I am first generation American on my dad's side and second on my mother's side. Norwegian is my identity. I enjoy all things Norwegian and do them, too—knitting, Hardangersøm, _klostersøm,_ rosemaling, food, etc. Now, it is quilting rosemaling that I focus on because I have enjoyed sewing and working with fabric all my life. I am working on my third rosemaling applique quilt and plan to do even more. My free motion machine quilting is totally based on my rosemaling background. I would like to paint a rosemaling design on fabric and then quilt it.
 
 Who or what has influenced your art the most? 
-My first teacher was Nils Ellingsgaard, but Bergljot Lunde has also influenced my rosemaling. Then, studying with Eli SÊlid this past summer gave me a whole new perspective on the Valdres style. It was a great experience because my dad is from Valdres and I have been there several times. Now I feel very comfortable rosemaling Valdres.
+My first teacher was Nils Ellingsgaard, but Bergljot Lunde has also influenced my rosemaling. Then, studying with Eli Sælid this past summer gave me a whole new perspective on the Valdres style. It was a great experience because my dad is from Valdres and I have been there several times. Now I feel very comfortable rosemaling Valdres.
 
 - Trudy Wasson, 2008

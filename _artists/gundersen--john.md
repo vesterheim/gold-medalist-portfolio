@@ -40,6 +40,6 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-I got involved in Norwegian folk art through my Sons of Norway group and rosemaling classes taught by Addie Pittlekow.  I just like rosemaling.  The two people that have influenced me most are Addie Pittlekow and Nils Ellingsgard.
+I got involved in Norwegian folk art through my Sons of Norway group and rosemaling classes taught by Addie Pittlekow. I just like rosemaling. The two people who have influenced me most are Addie Pittlekow and Nils Ellingsgard.
 
 - John Gundersen, 2008
