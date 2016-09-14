@@ -2,9 +2,11 @@
 	{% if forloop.first %}
 	{% endif %}
 		<article class="layout__media page-listing"> 
-			<a class="page-listing__lining page-listing__lining--padding-bottom" href="{{ artist.url | prepend: site.baseurl }}">
+			<a class="page-listing__lining xpage-listing__lining--padding-bottom" href="{{ artist.url | prepend: site.baseurl }}">
+{% comment %}
 				<div class="layout__media__image page-listing__image page-listing__image--one-third">
 					<div class="page-listing__image__lining">
+
 	{% if artist.pagelist.image %}					
 						{% picture tile {{ artist.pagelist.image }} alt="{{ artist.pagelist.alt }}" %}
 	{% else %}
@@ -12,6 +14,7 @@
 	{% endif %}
 					</div>
 				</div>
+{% endcomment %}
 				<div class="layout__media__body page-listing__body page-listing__body--constrained">
 					<header class="page-listing__header">
 						<h1 class="title page-listing__title">{{ artist.title }}</h1> 
