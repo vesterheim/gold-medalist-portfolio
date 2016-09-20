@@ -81,7 +81,7 @@ module Jekyll
 				}
 			else
 				{
-					'image' => '46x21/fpo_46x21-368.png',
+					'image' => 'shims/fpo_46x21-368.png',
 					'alt' => nil,
 					'caption' => nil
 				}				
