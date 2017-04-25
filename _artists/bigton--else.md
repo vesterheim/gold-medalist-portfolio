@@ -5,33 +5,33 @@ first_name: Else
 last_name: Bigton
 city: Barronett
 state: Wisconsin
-medals: 
+medals:
   - discipline: Woodworking
     year: 1988
 occupation:
-life_dates: Born in Norway
+life_dates: Born in Norway.
 ribbons:
   - color: White
     year: 1984
-    item: mirror frame
+    item: a mirror frame
   - color: Red
     year: 1985
-    item: hutch
+    item: a hutch
   - color: White
     year: 1985
-    item: Grandmothers clock
+    item: a Grandmother’s clock
   - color: White
     year: 1986
-    item: mirror frame
+    item: a mirror frame
   - color: White
     year: 1986
-    item: trunk
+    item: a trunk
   - color: White
     year: 1987
-    item: wall cabinet
+    item: a wall cabinet
   - color: Red
     year: 1988
-    item: bench
+    item: a bench
 headshot:
 photos:
 
@@ -39,11 +39,11 @@ navigation:
   exclude: true
 
 pagelist:
-  order:         # Defaults to navigation order  
+  order:         # Defaults to navigation order
   image: ~
   alt:
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
-  teaser:        # Defaults to page meta-description  
+  teaser:        # Defaults to page meta-description
 ---

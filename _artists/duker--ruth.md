@@ -9,31 +9,32 @@ medals:
   - discipline: Weaving
     year: 1991
 occupation:
-life_dates: Born 1921.  Died 2004, Carmichael, California
+life_dates: Born 1921. Died 2004, Carmichael, California.
 ribbons:
   - color: Blue
     year: 1983
-    item: table runner in krokbragd
+    item: a table runner in krokbragd technique
   - color: White
     year: 1983
-    item: wall hanging in krabba
+    item: a wall hanging in krabba technique
   - color: Red
     year: 1988
-    item: 4-harness rosepath table runner
+    item: a 4-harness rosepath table runner
   - color: White
     year: 1989
-    item: table runner in skillbragd
+    item: a table runner in skillbragd technique
   - color: White
     year: 1991
-    item: pillow cover in aklavev
+    item: a pillow cover in aklêvev technique
   - color: White
     year: 1991
-    item: belt
+    item: a belt
 headshot:
 photos:
   - src: gold-medalist/duker--ruth/Ruth-Duker-white.jpg
+    caption: Pillow cover © 1991 Ruth Duker
   - src: gold-medalist/duker--ruth/Ruth-Duker-white-2.jpg
-    caption: Belt 1991
+    caption: Belt © 1991 Ruth Duker
 
 navigation:
   exclude: true

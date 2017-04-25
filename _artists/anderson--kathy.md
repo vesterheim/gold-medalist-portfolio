@@ -13,33 +13,34 @@ life_dates:
 ribbons: 
   - color: White
     year: 1986
-    item: large plate
+    item: a large plate
   - color: Red
     year: 1993
-    item: Telemark bowl
+    item: a bowl in the Telemark style
   - color: White
     year: 1993
     item: Lazy Susan
   - color: White
     year: 1994
-    item: sewing basket
+    item: a sewing basket
   - color: White
     year: 1994
-    item: plate
+    item: a plate
   - color: White
     year: 1995
-    item: trunk
+    item: a trunk
   - color: White
     year: 1996
-    item: Telemark bowl
+    item: a bowl in the Telemark style
 headshot:
 photos:
   - src: gold-medalist/anderson--kathy/anderson-white-plate-1986.jpg
-    caption: Large Plate 1986
-  - src: gold-medalist/anderson--kathy/Kathy-Anderson-1996-White.jpg
-    caption: Plate 1996
+    caption: Large plate © 1986 Kathy Anderson
   - src: gold-medalist/anderson--kathy/K.-Anderson-White-28thNF.jpg
-    caption: Plate 28th annual Nordic Fest
+    caption: Plate © 1994 Kathy Anderson
+  - src: gold-medalist/anderson--kathy/Kathy-Anderson-1996-White.jpg
+    caption: Plate © 1996 Kathy Anderson
+
 
 navigation:
   exclude: true

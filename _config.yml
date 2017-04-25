@@ -10,6 +10,18 @@ url: "http://goldmedalist.vesterheim.org" # the base hostname & protocol for you
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
+exclude:
+  - artists.rb
+  - discipline.rb
+  - states.rb
+  - collections.txt
+  - Gemfile
+  - Gemfile.lock
+  - Gruntfile.js
+  - package.json
+  - Connections
+  - node_modules
+
 paginate: 2
 
 # Build settings

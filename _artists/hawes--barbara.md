@@ -14,14 +14,17 @@ ribbons:
   - color: White
     year: 1969
     item: cupboard doors
-  - 1970 White ribbon
   - color: Red
     year: 1970
     item: cupboard doors
+  - color: White
+    year: 1970
   - color: Blue
     year: 1971
     item: cupboard doors
-  - 1971 White ribbon
+  - color: White
+    year: 1971
+
 headshot:
 photos:
 

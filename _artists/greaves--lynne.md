@@ -9,14 +9,14 @@ medals:
   - discipline: Weaving
     year: 2001
 occupation: Housewife
-life_dates: Born 1932, Maywood, Illinois
+life_dates: Born 1932, Maywood, Illinois.
 ribbons:
   - color: Blue
     year: 1989
-    item: table runner in skillbragd
+    item: table runner in skillbragd technique
   - color: Blue
     year: 2000
-    item: table runner in contemporary
+    item: table runner in contemporary style
   - color: Blue
     year: 2001
     item: contemporary purse
@@ -25,7 +25,7 @@ headshot:
   caption: Lynne Greaves, 2008
 photos:
   - src: gold-medalist/greaves--lynne/Greaves_Lynne_photo2.png
-    caption: Table runner in skillbragd © 1989 Lynne Greaves
+    caption: Table runner in skillbragd technique © 1989 Lynne Greaves
   - src: gold-medalist/greaves--lynne/Greaves-2000-blue.jpg
     caption: Table runner © 2000 Lynne Greaves
   - src: gold-medalist/greaves--lynne/Greaves_Lynne_photo4.png
@@ -43,6 +43,8 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
+### Artist Statement
+
 I got involved in Norwegian folk art because I am of Swedish descent, so all Scandinavian weaving is very appealing. My friend Ruth Duker was a big influence. She was also a friend of Lila Nelson. Ruth was German but we both loved Scandinavian weaving.
 
-- Lynne Greaves, 2008
+2008

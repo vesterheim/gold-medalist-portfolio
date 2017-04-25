@@ -13,22 +13,22 @@ life_dates: Born 1938, Fergus Falls, Minnesota. Died 2012.
 ribbons:
   - color: White
     year: 1999
-    item: ambar
+    item: an ambar
   - color: Red
     year: 2003
-    item: Telemark-style oval box (tine)
+    item: a Telemark-style oval box (tine)
   - color: White
     year: 2004
-    item: Telemark-style bowl
+    item: a Telemark-style bowl
   - color: White
     year: 2005
-    item: Telemark-style ambar
+    item: a Telemark-style ambar
   - color: Red
     year: 2006
-    item: Telemark-style two-handled bowl
+    item: a Telemark-style two-handled bowl
   - color: Red
     year: 2007
-    item: Telemark-style corner cupboard
+    item: a Telemark-style corner cupboard
 headshot:
   src: gold-medalist/sollom--marie/sollom--marie.jpg
   caption: Marie Sollom, 2008
@@ -52,8 +52,10 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
+### Artist Statement
+
 I consider myself privileged to be part of an artist's expression that not only reflects my family heritage, but is, in essence, joyful and decorative.
 
 Since my father was an immigrant from Norway, as were my mother's parents, I was aware of many things Norwegian from an early age. We had a small Hallingdal-design _kubbestol_ in our home, which I admired. Along with my other studies, I took art classes in college. Not until years later, after launching a career, moving to California, marrying and having a son, did I realize how much I was interested in Norwegian rosemaling. Many Gold Medalists and also artists from Norway came to California and I took every class I could. In the years following, both as a stay-at-home mom and in the working world, I continued to pursue rosemaling. Teaching opportunities encouraged me to be creative on my own. I enjoy all the styles, but especially Telemark. Rosemaling, to me, is pure visual delight and doesn't require deep introspection or a subtle psychological statement. Thank you Vesterheim for your guidance and inspiration.  
 
-- Marie Sollom, 2008
+2008

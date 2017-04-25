@@ -9,23 +9,23 @@ medals:
   - discipline: Rosemaling
     year: 1991
 occupation: Rosemaling teacher/Homemaker
-life_dates: Born 1936, Milwaukee, Wisconsin
+life_dates: Born 1936, Milwaukee, Wisconsin.
 ribbons:
   - color: White
     year: 1980
-    item: trunk
+    item: a trunk
   - color: White
     year: 1988
-    item: trunk
+    item: a trunk
   - color: White
     year: 1989
-    item: trunk
+    item: a trunk
   - color: Red
     year: 1990
-    item: trunk
+    item: a trunk
   - color: Blue
     year: 1991
-    item: trunk
+    item: a trunk
 headshot:
   src: gold-medalist/wolter--barbara/wolter--barbara.jpg
   caption: Barb Wolter, 2008
@@ -49,6 +49,8 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
+### Artist Statement
+
 At the urging of two neighbors, I signed up for an evening class at the local adult education center. I had no idea what rosemaling was at that time, but knew that I had a liking for art---I had taken a watercolor session years before.
 
 When I found out rosemaling was a Norwegian folk art, I remembered that Grandma Storlie, born in Norway, had brought with her a _tine_ that had been painted in her area of Dale.

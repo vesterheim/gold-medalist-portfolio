@@ -8,21 +8,21 @@ state: Iowa
 medals: 
   - discipline: Rosemaling
     year: 2001
-occupation: IT Associate, Deere and Co., Moline, IL
-life_dates: Born 1945, Stillwater, Minnesota
+occupation: IT Associate, Deere and Co.
+life_dates: Born 1945, Stillwater, Minnesota.
 ribbons:
   - color: White
     year: 1999
-    item: ambar
+    item: an ambar
   - color: Blue
     year: 2000
-    item: ambar
+    item: an ambar
   - color: Red
     year: 2000
-    item: jewelry cupboard
+    item: a jewelry cupboard
   - color: Red
     year: 2001
-    item: one-man sled
+    item: a one-man sled
 headshot:
   src: gold-medalist/macvey--joanne/macvey--joanne.jpg
   caption: Joanne MacVey, 2008
@@ -46,6 +46,8 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
+### Artist Statement
+
 While decorative painting in 1982, I was introduced to rosemaling when Gary Albrecht came to Moline to teach a seminar. From that very first class, my love for the art blossomed. Rosemaling and Vesterheim opened up a whole new world of fascinating experiences, including a reception at the White House, and introduced me to wonderful new friends in the United States, Canada, and Norway.
 
 Five intensive study trips to Norway provided instruction with many of Norway's finest teachers. These study trips and visits to Vesterheim immerse one into the Norwegian culture and arts and create a yearning to learn more and more about rosemaling, as well as the Norwegian culture.
@@ -56,4 +58,4 @@ Until 2000, I worked full-time so it was difficult to find the time to paint. Bu
 
 God has truly blessed this marvelous journey.
 
-- Joanne MacVey, 2008
+2008

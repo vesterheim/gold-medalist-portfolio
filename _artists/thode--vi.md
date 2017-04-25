@@ -9,7 +9,7 @@ medals:
   - discipline: Rosemaling
     year: 1970
 occupation:
-life_dates: Died 1999
+life_dates: Died 1999.
 ribbons:
   - color: Blue
     year: 1969

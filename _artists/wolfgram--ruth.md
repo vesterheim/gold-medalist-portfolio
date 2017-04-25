@@ -9,28 +9,29 @@ medals:
   - discipline: Rosemaling
     year: 1974
 occupation:
-life_dates: Dead 2014
+life_dates: Died 2014.
 ribbons:
   - color: White
     year: 1969
-    item: triangular box
+    item: a triangular box
   - color: White
     year: 1971
   - color: Red
     year: 1972
-    item: child's rocker
+    item: a child's rocker
   - color: White
     year: 1973
   - color: White
     year: 1973
   - color: Blue
     year: 1974
+    item: a bowl
   - color: Red
     year: 1974
 headshot:
 photos:
   - src: gold-medalist/wolfgram--ruth/wolfgram-blue-1974.jpg
-    caption:
+    caption: Bowl © 1974 Ruth Wolfgram
 navigation:
   exclude: true
 

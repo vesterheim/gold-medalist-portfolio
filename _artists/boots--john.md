@@ -9,29 +9,29 @@ medals:
   - discipline: Knifemaking
     year: 1995
 occupation: Retired English Professor
-life_dates: Born 1943
+life_dates: Born 1943.
 ribbons:
   - color: Red
     year: 1994
-    item: knife with rosewood handle and silver accents
+    item: a knife with rosewood handle and silver accents
   - color: White
     year: 1994 
-    item: knife with cherrywood handle and brass accents
+    item: a knife with cherrywood handle and brass accents
   - color: Blue
     year: 1995 
-    item: knife with sheath
+    item: a knife with sheath
   - color: Blue
     year: 1995 
-    item: knife with sheath
+    item: a knife with sheath
   - color: White
     year: 1995
-    item: knife with sheath
+    item: a knife with sheath
 headshot:
   src: gold-medalist/boots--john/boots--john__headshot.jpg
-  caption:
+  caption: John Boots
 photos:
   - src: gold-medalist/boots--john/Boots-Red-1994.jpg
-    caption: Knife and Sheath 1994
+    caption: Knife and sheath © 1994 John Boots
 
 navigation:
   exclude: true
@@ -53,4 +53,4 @@ Håvard was a rigorous and generous teacher, and he was also a walking encyclope
 
 As a knife maker, I see myself more as craftsman than as artist, and I see the goal of craftsmanship as a striving toward the functional unity of the useful with the beautiful. That goal is certainly an essential part of the Norse knife tradition, and I know now that it applies with equal aptitude to a wide variety of other pursuits as well. It might not even be too bad as a principle by which to live. 
 
-John Boots, 2015
+2015

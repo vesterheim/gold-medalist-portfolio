@@ -3,7 +3,7 @@ layout: gold-medalist__artist
 title: Carlson, Paul T.
 first_name: Paul T.
 last_name: Carlson
-city: Kemare
+city: Kenmare
 state: North Dakota
 medals: 
   - discipline: Knifemaking
@@ -15,34 +15,32 @@ life_dates:
 ribbons:
   - color: Red
     year: 1996
-    item: knife with kingwood and elk antler handle
+    item: a knife with kingwood and elk antler handle
   - color: White
     year: 1996
-    item: knife with maple burl and elk antler handle
+    item: a knife with maple burl and elk antler handle
   - color: Blue 
     year: 1997
-    item: "9\" knife with elk antler handle"
+    item: a knife with elk antler handle
   - color: Red 
     year: 1997 
-    item: "7\" knife with antique walrus-ivory handle"
+    item: a knife with antique walrus-ivory handle
   - color: Blue
     year: 1997
-    item: Sami-style carved cup
+    item: a Sámi-style carved cup
   - color: White
     year: 2000
-    item: carved wool box
+    item: a carved wool box
   - color: Red
     year: 2002
-    item: ale bowl
+    item: an ale bowl
   - color: Red
     year: 2002
-    item: trunk
+    item: an acanthus-carved trunk
 headshot:
 photos:
-  - src: gold-medalist/carlson--paul/carlson-blue-2002-Fjord-Girl-carved-figure.jpg
-    caption: Fjord Girl Carved Figure
   - src: gold-medalist/carlson--paul/carlson-red-2002-acanthus-carved-trunk.jpg
-    caption: Acanthus-Carved Trunk
+    caption: Acanthus-carved trunk © 2002 Paul T. Carlson
 
 navigation:
   exclude: true

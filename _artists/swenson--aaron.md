@@ -9,31 +9,32 @@ medals:
   - discipline: Woodworking
     year: 2014
 occupation: 
-life_dates: Born 1938
+life_dates: Born 1938.
 ribbons:
   - color: White
     year: 1998
-    item: 
+    item: a carved ale bowl
   - color: White
     year: 2003
-    item: 
+    item: a carved ale bowl
   - color: Blue
     year: 2010
-    item: 
+    item: a horse-head ale bowl
   - color: Blue
     year: 2014
-    item: 
+    item: a carved ale bowl
   
 headshot:
   src: gold-medalist/swenson--aaron/swenson--aaron__headshot.jpg
   caption:
 photos:
-  - src: gold-medalist/swenson--aaron/swenson-blue-2010.jpg
-    caption: 
-  - src: gold-medalist/swenson--aaron/swenson-blue-2014.jpg
-    caption:
   - src: gold-medalist/swenson--aaron/swenson-white-22nd-NF.jpg
-    caption:
+    caption: Carved ale bowl © 2003 Aaron Swenson
+  - src: gold-medalist/swenson--aaron/swenson-blue-2010.jpg
+    caption: Horse-head ale bowl © 2010 Aaron Swenson
+  - src: gold-medalist/swenson--aaron/swenson-blue-2014.jpg
+    caption: Carved ale bowl © 2014 Aaron Swenson
+
 navigation:
   exclude: true
 
@@ -46,11 +47,13 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
-First of all, I should say, my twin Arvid and I are equals, as we have worked togather our whole lives as building contractors, which our father had also been. Due to his health, we took over at an early age. We still live on the farm our parents built and we lived in since age two.
+### Artist Statement
 
-We grew up in a close Norwegian extended family, speaking both Norwegian and English, which has been an asset, especially traveling in Norway. We have visited Norway seven times.
+First of all, I should say, my twin Arvid and I are equals, as we have worked together our whole lives as building contractors, which our father had also been. Due to his health, we took over at an early age. We still live on the farm our parents built, in which we have lived since age two.
 
-We have always had a strong interest in our heritage—31 times at Host Fest in Minot, N.D.; Nordic Fest in Decorah, Iowa; and Hjemkomst in Moorhead, Minn. 
+We grew up in a close Norwegian extended family, speaking both Norwegian and English, which has been an asset, especially when traveling in Norway. We have visited Norway seven times.
+
+We have always had a strong interest in our heritage—31 times at Høstfest in Minot, N.D.; Nordic Fest in Decorah, Iowa; and Hjemkomst in Moorhead, Minn. 
 
 We have had a strong interest in folk art, which had a big boost when Robert Asp’s Viking ship came out of the potato house in Hawley, Minn.
 
@@ -68,11 +71,11 @@ Most of the figure carving I have done has been based on historic Norwegian cari
 
 We started helping with building at age 12, so you can say we have worked with wood all our lives.
 
-Carol Juven (Mr. Norway of Fargo, N.D.) stated, “Swenson twins are more Norwegian then _rømmegrøt!_
+Carol Juven (Mr. Norway of Fargo, N.D.) stated, “Swenson twins are more Norwegian than _rømmegrøt!_
 
 I did have two pieces in the Vesterheim traveling exhibit, _Migration of a Tradition_ with a little biography by Marion Nelson.
 
-My twin brother and I have been self-employed as building contractors for over 50 years.The last 20 years I have built reproductions, as a hobby, of old Scandinavian pieces, like cabinets, Swedish mora clocks, beds, Norwegian floor clocks, etc., which have been mostly painted by Karen Jenson.
+My twin brother and I have been self-employed as building contractors for over 50 years. The last 20 years I have built reproductions, as a hobby, of old Scandinavian pieces, like cabinets, Swedish mora clocks, beds, Norwegian floor clocks, etc., which have been mostly painted by Karen Jenson.
 
 In 1993 or so, we were interviewed by Garrison Keillor at Vesterheim's Jacobson Farmstead for CBS Sports and the Lillehammer Winter Olympics. The clip was never televised, thanks to the two feuding ice skaters, but the video is in the Vesterheim archives.  
 

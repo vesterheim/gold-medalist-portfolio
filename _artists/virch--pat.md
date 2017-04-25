@@ -9,31 +9,35 @@ medals:
   - discipline: Rosemaling
     year: 1974
 occupation: Retired Teacher in Home Studio
-life_dates: Born 1926 in Murdo, SD
+life_dates: Born 1926, Murdo, South Dakota.
 ribbons:
   - color: White
     year: 1968
-    item: letter box
+    item: a plate
   - color: White
     year: 1968
-    item: plate
+    item: a plate
   - color: White
     year: 1969
+    item: a trunk
   - color: Red
     year: 1970
-    item: Bible box
+    item: a Bible box
   - color: White
     year: 1973
   - color: Blue 
     year: 1974
+    item: Telemark-style clock
 headshot:
   src: gold-medalist/virch--pat/virch-H.M.-1968.jpg
-  caption: Pat Virch with 1968 Honorable Mention
+  caption: Pat Virch, 1968
 photos:
- - src: gold-medalist/virch--pat/virch-1970-red-bible-box.jpg
+ - src: gold-medalist/virch--pat/virch-plate-1968.jpg
+   caption: Plate © 1968 Pat Virch
+ - src: gold-medalist/virch--pat/virch-1970.jpg
    caption: Bible Box © 1970 Pat Virch
- - src: gold-medalist/virch--pat/virch-white-1969.jpg
-   caption: Trunk © 1969 Pat Virch
+ - src: gold-medalist/virch--pat/virch-1974.jpg
+   caption: Telemark-style clock © 1974 Pat Virch
 
 navigation:
   exclude: true
@@ -47,6 +51,8 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
+### Artist Statement
+
 Pat Virch became interested in Norwegian rosemaling in 1960, when, as a young mother at a home extension meeting, she saw a large white plate decorated with bright colorful flowers in the style of Per Lysne. She enrolled in night classes in the Marinetter, Wisconsin, high school, and then studied with Violet Christopherson in her studio the next year. 
 
 Upon relocating to Marquette, Michigan, in the winter of 1963, Pat discovered that there were no rosemaling teachers in the area and that she would need to develop her own expertise. She traveled to study historic rosemaling collections including that of the Vesterheim Museum where she received encouragement of Dr. Marion Nelson.
@@ -58,3 +64,5 @@ For over 20 years, Pat maintained an active teaching schedule in her home studio
 Between 1970 and 1982, Pat authored six books on the topics of Norwegian rosemaling, Swedish Dalarna painting and early American tin decorating. She also published two full color folios and numerous patterns and authored many magazine articles.
 
 Pat is now retired from active teaching, but she and Niron continue to manage their woodenware and rosemaling supply business from their home. Over the years they have proudly acquired a small collection of painted chests owned by family members who immigrated to Wisconsin from Norway in the 1800s. Now at age 83, Pat is happy to say that she continues to paint often, doing special requests and getting much satisfaction on return. 
+
+2010

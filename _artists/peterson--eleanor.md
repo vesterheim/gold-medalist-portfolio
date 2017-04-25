@@ -9,7 +9,7 @@ medals:
   - discipline: Rosemaling
     year: 1998
 occupation:
-life_dates: Died 2005
+life_dates: Died 2005.
 ribbons:
   - color: White
     year: 1989
@@ -19,7 +19,7 @@ ribbons:
     item: bowl
   - color: White
     year: 1993
-    item: Valdres-style box
+    item: Valdres-style bowl
   - color: Red
     year: 1996
     item: Valdres-style platter
@@ -29,11 +29,11 @@ ribbons:
 headshot:
 photos:
   - src: gold-medalist/peterson--eleanor/Peterson-white-1991-bowl.jpg
-    caption: Bowl 1991
+    caption: Bowl © 1991 Eleanor Peterson
   - src: gold-medalist/peterson--eleanor/Peterson-white-1993.jpg
-    caption: Valdres-style Box 1993
+    caption: Valdres-style Bowl © 1993 Eleanor Peterson
   - src: gold-medalist/peterson--eleanor/Peterson-Red.jpg
-    caption: Valdres-style Platter 1996
+    caption: Valdres-style Platter © 1996 Eleanor Peterson
 
 navigation:
   exclude: true

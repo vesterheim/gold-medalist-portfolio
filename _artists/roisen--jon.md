@@ -13,27 +13,27 @@ life_dates:
 ribbons:
   - color: White
     year: 2001
-    item: knife with silver trim
+    item: a knife with silver trim
   - color: Blue
     year: 2003
-    item: knife and sheath
+    item: a knife and sheath
   - color: Red
     year: 2004
-    item: knife with silver and birch handle
+    item: a knife with silver and birch handle
   - color: White
     year: 2004
-    item: work knife with bloodwood and elkhorn handle
+    item: a work knife with bloodwood and elkhorn handle
   - color: Red
     year: 2005
-    item: knife with stitched sheath
+    item: a knife with stitched sheath
 headshot:
 photos:
-  - src: gold-medalist/roisen--jon/Roisen-Red-2005.jpg
-    caption: Knife and Shealth 2005
-  - src: gold-medalist/roisen--jon/Roisen_Jon_photo3.png
-    caption: Work knife with bloodwood and elkhorn handle © 2004 Jon Roisen
   - src: gold-medalist/roisen--jon/Roisen_Jon_photo4.png
     caption: Knife with silver and birch handle © 2004 Jon Roisen
+  - src: gold-medalist/roisen--jon/Roisen_Jon_photo3.png
+    caption: Work knife with bloodwood and elkhorn handle © 2004 Jon Roisen
+  - src: gold-medalist/roisen--jon/Roisen-Red-2005.jpg
+    caption: Knife and sheath © 2005 Jon Roisen
 
 navigation:
   exclude: true

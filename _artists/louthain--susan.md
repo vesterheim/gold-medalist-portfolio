@@ -8,18 +8,18 @@ state: Wisconsin
 medals: 
   - discipline: Rosemaling
     year: 1973
-occupation: Stay at home Mom
-life_dates: Born 1943
+occupation: Stay-at-home Mom
+life_dates: Born 1943.
 ribbons:
   - color: Red
     year: 1972
-    item: suagr bucket
+    item: a sugar bucket
   - color: Blue
     year: 1973
-    item: book case
+    item: a book case
   - color: Blue
     year: 1973
-    item: secretary
+    item: a secretary
 headshot:
 photos:
   - src: gold-medalist/louthain--susan/Louthain_Susan_photo2.png
@@ -37,6 +37,8 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
+### Artist Statement
+
 I was born in Dubuque, Iowa, on June 30, 1943. My family relocated in Platteville, Wisconsin, in 1946 where my parents raised my brother and me. After graduating from high school in 1961, I attended UW-Whitewater for one and a half years. I decided to work in the family business at that time, working as a typesetter, proofreader, doing ad layouts, and job printing for my parents’ free distribution paper, _The Grant-Iowa-Lafayette Shopping News._ 
 
 In August of 1967, my husband and I were married in Platteville and continued to live there and raise our three children. We have twin daughters and a son who have blessed us with 11 grandchildren.
@@ -45,4 +47,4 @@ I was introduced to rosemaling in 1969 by a good friend of our family. Aural Gie
 
 In 2001, my husband retired as publisher of _The Shopping News._ We moved to Florida where we lived for about 14 years. Retirement has been good to us. In 2012, we decided to move back to Wisconsin so we can be closer to family. We bought some property on John’s Lake in Wautoma, Wisconsin, tore down an old cabin and rebuilt during the fall and winter of 2014-2015. We moved into our new place in April of 2015 and have been enjoying the cooler summers and meeting new friends. We will revisit our Florida friends during a couple weeks in the winter as long as we are able. I hope to someday get my brushes out again and do some rosemaling during our long cold winters.
 
-Susan Louthain, 2015
+2015

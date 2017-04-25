@@ -13,26 +13,28 @@ life_dates:
 ribbons:
   - color: Red
     year: 1986
-    item: plate with chip-carving
+    item: a plate with chip carving
   - color: White
     year: 1986
-    item: plate with incised decoration
+    item: a plate with incised decoration
   - color: Blue
     year: 1987
-    item: chip-carved chest
+    item: a chest with chip carving
   - color: White
     year: 1987
-    item: plaque
+    item: a plaque
   - color: Red
     year: 1988
-    item: for square chip-carved plate
-  - 1988 White ribbon
+    item: a square plate with chip carving
+  - color: White
+    year: 1988 
+    item:
 headshot:
   src: gold-medalist/montzka--timothy/montzka--timothy.jpg
   caption: Timothy Montzka
 photos:
   - src: gold-medalist/montzka--timothy/Montzka-1986-Red-plate.jpg
-    caption: Plate with incised decoration© 1986 Timothy Montzka
+    caption: Plate with incised decoration © 1986 Timothy Montzka
   - src: gold-medalist/montzka--timothy/Montzka_Timothy_photo3.png
     caption: Plate with chip-carving © 1986 Timothy Montzka
 

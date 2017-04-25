@@ -5,56 +5,58 @@ first_name: Rosemary
 last_name: Roehl
 city: St. Cloud
 state: Minnesota
-medals: 
+medals:
   - discipline: Weaving
     year: 1992
 occupation: Professor, St. Cloud University
-life_dates: Born 1940, Hendricks, Minnesota
+life_dates: Born 1940, Hendricks, Minnesota.
 ribbons:
   - color: White
     year: 1986
-    item: monk's belt pattern table runner
+    item: a monk’s belt pattern table runner
   - color: Blue
     year: 1989
-    item: table runner
+    item: a table runner
   - color: White
     year: 1989
-    item: table runner
+    item: a table runner
   - color: White
     year: 1991
-    item: wall hanging in krokbragd
+    item: a wall hanging in krokbragd technique
   - color: White
     year: 1991
-    item: table runner in lynhild, rosepath, and aklaevev
+    item: a table runner in lynhild, rosepath, and aklêvev technique
   - color: Red
     year: 1992
-    item: table runner in lynhild, rosepath, and aklaevev
+    item: a table runner in lynhild, rosepath, and aklêvev technique
   - color: White
     year: 1992
-    item: table runner in rosepath technique
+    item: a table runner in rosepath technique
 headshot:
   src: gold-medalist/roehl--rosemary/roehl--rosemary.jpg
   caption: Rosemary Roehl, 2008
 photos:
   - src: gold-medalist/roehl--rosemary/Roehl_Rosemary_photo2.png
-    caption: Monk's belt pattern table runner © 1986 Rosemary Roehl
+    caption: Monk’s belt pattern table runner © 1986 Rosemary Roehl
   - src: gold-medalist/roehl--rosemary/Roehl_Rosemary_photo3.png
     caption: Table runner, Vesterheim collection 1989.037.001
   - src: gold-medalist/roehl--rosemary/Roehl_Rosemary_photo4.png
-    caption: Table runner in lynhild, rosepath, and aklÊvev © 1992 Rosemary Roehl
+    caption: Table runner in lynhild, rosepath, and aklêvev © 1992 Rosemary Roehl
 
 navigation:
   exclude: true
 
 pagelist:
-  order:         # Defaults to navigation order  
+  order:         # Defaults to navigation order
   image: ~
   alt:
   caption:
   title:         # Defaults to navigation title
   subtitle:      # Defaults to page subtitle
-  teaser:        # Defaults to page meta-description  
+  teaser:        # Defaults to page meta-description
 ---
+### Artist Statement
+
 I am a self-taught weaver who has focused on learning the weaving techniques used in traditional Norwegian weavings. After my first trip to Norway in 1978 I became determined to create weavings like those I saw there. My relatives lived on the Nordfjord and their homes were full of lovely weavings.
 
 After learning the basics of dressing my 6 harness, 20 inch table loom, I began studying the monk's belt technique. I entered competitions including the Vesterheim _National Exhibition of Folk Art in the Norwegian Tradition._  I found the feedback from the judges helpful and encouraging. I also learned from studying other weavings at Vesterheim and in Norway and reading books.
@@ -65,4 +67,4 @@ Since my mother's grandparents were from farms on the Nordfjord, I wear the buna
 
 Although my weavings are for sale, I weave mainly because I enjoy the challenge of learning new techniques, working with colors and patterns and the satisfaction of completing a finely crafted wall hanging or table runner. Although I use traditional Norwegian weaving techniques, I enjoy varying them somewhat and often use more contemporary colors.
 
-- Rosemary Roehl, 2008
+2008

@@ -9,20 +9,20 @@ medals:
   - discipline: Rosemaling
     year: 1986
 occupation: Wife/Mother 
-life_dates: Born 1948, Amery, Wisconsin
+life_dates: Born 1948, Amery, Wisconsin.
 ribbons:
   - color: White
     year: 1983
-    item: green trunk
+    item: a green trunk
   - color: Red
     year: 1984
-    item: plate
+    item: a plate
   - color: Red
     year: 1984
-    item: trunk
+    item: a trunk
   - color: Blue
     year: 1986
-    item: trunk
+    item: a trunk
 headshot:
   src: gold-medalist/peach--trudy/peach--trudy.jpg
   caption: Trudy Peach, 2008
@@ -30,7 +30,7 @@ photos:
   - src: gold-medalist/peach--trudy/Peach_Trudy_photo2.png
     caption: Plate, Vesterheim collection 1984.116.001
   - src: gold-medalist/peach--trudy/Peach-blue-1986.jpg
-    caption: Trunk © 1984 Trudy Peach
+    caption: Trunk © 1986 Trudy Peach
 
 navigation:
   exclude: true
@@ -44,6 +44,8 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
+### Artist Statement
+
 My interest in Norwegian culture and heritage started to take root during childhood. While growing up in Wisconsin, we lived close to my mother's parents, who were steeped in their Norwegian heritage. My siblings and I would frequently be found at my grandparent's farm listening to Norwegian songs and learning the Norwegian table prayer. These are some of the fondest and richest memories from my childhood.
  
 Having gained an appreciation of my Norwegian heritage from my grandparents, I was intrigued when, during high school, I came across a library book containing pictures of Norwegian rosemaling. In particular, a picture that captured my interest was a beautiful Rogaland panel painted by Bergljot Lunde. It was at that time that I became fascinated with the art of rosemaling and decided that one day I would learn this rich cultural art.
@@ -54,4 +56,4 @@ My first class at Vesterheim was in the late 1970s with Vi Thode. I studied unde
  
 The most influential person and strongest encourager during my early years of painting rosemaling was Dr. Marion Nelson. As I progressed, seeing the Vesterheim collection and exhibits during Nordic Fest kept me inspired to pursue new ideas. I still find it exciting to learn new techniques, develop styles, and shape the beauty that evolves while painting a bare piece of wood. My life has certainly been blessed in the most wonderful way by learning and pursuing the art of my ancestors, Norwegian rosemaling.     
 
-- Trudy Peach, 2008
+2008

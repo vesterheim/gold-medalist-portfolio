@@ -13,19 +13,19 @@ life_dates:
 ribbons:
   - color: White
     year: 1978
-    item: cradle loom
+    item: a cradle loom
   - color: Blue
     year: 1980
-    item: bowl
+    item: a bowl
   - color: White
     year: 1980
-    item: oval box (tine)
+    item: an oval box (tine)
   - color: Blue
     year: 1981
-    item: five-panel cabinet
+    item: a five-panel cabinet
   - color: White
     year: 1981
-    item: trunk
+    item: a trunk
 headshot:
 photos:
 

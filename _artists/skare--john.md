@@ -9,26 +9,26 @@ medals:
   - discipline: Weaving
     year: 1987
 occupation:
-life_dates: Born 1949, Algona, Iowa
+life_dates: Born 1949, Algona, Iowa.
 ribbons:
   - color: White
     year: 1983
-    item: runner in krokbragd and tavlegragd
+    item: a runner in krokbragd and tavlebragd
   - color: White
     year: 1985
-    item: runner
+    item: a runner
   - color: White
     year: 1986
-    item: jacket
+    item: a jacket
   - color: Blue
     year: 1987
-    item: rya rug
+    item: a rya rug
   - color: Red
     year: 1987
-    item: rya rug
+    item: a rya rug
   - color: White
     year: 1987
-    item: work coat
+    item: a work coat
 headshot:
   src: gold-medalist/skare--john/skare--john.jpg
   caption: John Skare, 2008
@@ -52,6 +52,8 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
+### Artist Statement
+
 Weaving began for me in the early '70s. As an art major at Mankato State University (Minnesota) I was required to take a series of craft courses. Dr. Veda Halvorson, my fiber design teacher, had a Norwegian background and recognized my name, Skare, as being Norwegian. Well, to make a long story short, she took me under her wing and by the time I graduated I had an area of concentration in art handweaving. Veda sensed my independent artistic spirit and gave me the freedom to develop as a fiber artist.
 
 After college I began teaching art in southeastern Iowa, close to where my father's older sister, Margaret, lived. While visiting her one weekend she presented me with several handwoven family textiles. I had no idea these works existed. Margaret said the coverlets came from Norway with my grandmother, Emily Sandstoe. Emily's mother wove the pieces and sent them with her when she left for America. Talk about excitement! I then knew that there were weavers in my family before me and I now have some of those works. I sleep under the Sandstoe _dobbelt krokbragd_ coverlet every winter!
@@ -60,4 +62,4 @@ Probably the biggest dose of Norwegian nurturing came by way of my wife, Ramona 
 
 Another source of my past and present nurturing probably comes from fellow weavers and friends. Bud Gregor's encouragement to look to the art side of textiles will always be a part of me even though he is no longer living. Marit Lomen's constant words of support have always been present when needed. Steve Cary's gifts of textile books and exhibition brochures from London are just a small part of his desire to uplift the arts in me. Lila Nelson's caring way of support and growth encouragement helps keep me focused on what's ahead. Frankly, there are so many who have nurtured my heritage-based creative work. It's the people with Norwegian heritage themselves, rather than the Norwegian-based techniques that have the strongest hold on me, however. My heritage is their heritage, and that heritage will always be a part of my soul and spirit that is expressed through my fiber art.
 
--John Skare, 2008
+2008

@@ -9,7 +9,7 @@ medals:
   - discipline: Rosemaling
     year: 1980
 occupation:
-life_dates: Deceased
+life_dates: Deceased.
 ribbons:
   - color: Red
     year: 1973
@@ -36,10 +36,12 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
+### Artist Statement
+
 Thelma and Elma Olsen, twins from Elkhorn, Wisconsin, have always been interested in various forms of art. They became especially interested in rosemaling as an expression of art pertinent to their own heritage. They were inspired by the work of Per Lysne of Stoughton, Wisconsin, and the portfolios prepared by Knut Hovden of Norway. They have studied under Sigmund Aarseth, Knut Anderson, Ruth Nordbo, Bergljot Lunde, Olaf Tvieten, Olav Fossli, Oskar Kjetsaa, and Alfhild Tangen. The twins visited the School at Sand, Norway, and Mrs. Lunde in 1967. In 1978 they were among the 40 rosemalers who studied at Rauland Academy in Telemark as part of the Vesterheim tour.
 
 Thelma and Elma have been teaching rosemaling at Gateway Technical Institute in Elkhorn since 1969 and in seminars in Wisconsin and Northern Illinois  In 1969 they did the illustrations for the _Pioneer Cookbook_ as a volunteer project for Vesterheim.
 
 The twins have always enjoyed painting together and they both paint on the same piece. For this reason they have always entered competitions together. They feel very grateful to Vesterheim for promoting the quality and appreciation of rosemaling over the years. 
 
--Excerpt from Vesterheim _Rosemaling Letter, Vol. X, No. 4, 1980_
+1980, excerpt from _Vesterheim Rosemaling Letter, Vol. X, No. 4_

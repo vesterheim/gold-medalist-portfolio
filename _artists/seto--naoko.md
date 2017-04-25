@@ -9,29 +9,29 @@ medals:
   - discipline: Rosemaling
     year: 2004
 occupation: Housewife
-life_dates: Born Tokyo, Japan
+life_dates: Born Tokyo, Japan.
 ribbons:
   - color: Red
     year: 1999
-    item: oval box (tine)
+    item: an oval box (tine)
   - color: White
     year: 2000
-    item: Rogaland-style plate
+    item: a Rogaland-style plate
   - color: White
     year: 2001
-    item: Hallingdal-style plate
+    item: a Hallingdal-style plate
   - color: White
     year: 2001
-    item: Rogaland-style oval box (tine)
+    item: a Rogaland-style oval box (tine)
   - color: White
     year: 2003
-    item: Hallingdal-style bowl
+    item: a Hallingdal-style bowl
   - color: Red
     year: 2004
-    item: Os-style sending basket
+    item: an Os-style sending basket
   - color: White
     year: 2004
-    item: Hallingdal-style bowl
+    item: a Hallingdal-style bowl
 headshot:
   src: gold-medalist/seto--naoko/seto--naoko.jpg
   caption: Naoko Seto, 2008
@@ -55,6 +55,8 @@ pagelist:
   subtitle:      # Defaults to page subtitle
   teaser:        # Defaults to page meta-description  
 ---
+### Artist Statement
+
 My favorite styles are Hallingdal and Os. I admire Nils Bera the most. Rosemaling has enriched my life, and I have had a wonderful time through this Norwegian art. I appreciate many Gold Medalists who inspired me and the wonderful people I met in the United States.
 
-- Naoko Seto, 2008
+2008
