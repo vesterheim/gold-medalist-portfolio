@@ -12,7 +12,7 @@ occupation:
 life_dates:
 ribbons:
   - color: Blue
-    year: 20014
+    year: 2014
     item: “Working with Fjords” carved figure
   - color: White
     year: 2014
@@ -27,6 +27,12 @@ ribbons:
 headshot:
 
 photos:
+  - src: gold-medalist/pasche-todd/pasche-blue-2014.jpg
+    caption: “Working with Fjords” Carved Figure © 2014 Todd Pasche
+  - src: gold-medalist/pasche-todd/pasche-blue-2016.jpg
+    caption: “Just Under the Bark” Relief Carving © 2016 Todd Pasche
+  - src: gold-medalist/pasche-todd/pasche-white-2016.jpg
+    caption: Carved Ale Bowl © 2016 Todd Pasche
 
 navigation:
   exclude: true
