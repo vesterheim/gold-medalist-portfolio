@@ -8,41 +8,41 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0,minimal-ui" />
     {% if page.meta_description %}<meta name="description" content="{{ page.meta_description | strip_html | xml_escape }}" />{% endif %}
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-    <link href="//vesterheim.org/assets/css/style.css" media="all" rel="stylesheet" />
+    <link href="/assets/css/style.css" media="all" rel="stylesheet" />
     <link href="/assets/css/gold-medalist.css" media="all" rel="stylesheet" />
-    <noscript><link href="//vesterheim.org/assets/css/icons.fallback.css" rel="stylesheet"></noscript>
-    <meta name="fontcss" content="//vesterheim.org/assets/css/fonts.css" />
-    <meta name="svgcss" content="//vesterheim.org/assets/css/icons.data.svg.css" />
-    <meta name="pngcss" content="//vesterheim.org/assets/css/icons.data.png.css" />
-    <meta name="fallbackcss" content="//vesterheim.org/assets/css/icons.fallback.css" />
-    <meta name="fulljs" content="//vesterheim.org/assets/js/app.js" />
+    <noscript><link href="/assets/css/icons.fallback.css" rel="stylesheet"></noscript>
+    <meta name="fontcss" content="/assets/css/fonts.css" />
+    <meta name="svgcss" content="/assets/css/icons.data.svg.css" />
+    <meta name="pngcss" content="/assets/css/icons.data.png.css" />
+    <meta name="fallbackcss" content="/assets/css/icons.fallback.css" />
+    <meta name="fulljs" content="/assets/js/app.js" />
     <link href="/assets/js/vendor/photoswipe/photoswipe.css" media="all" rel="stylesheet" />
     <link href="/assets/js/vendor/photoswipe/default-skin/default-skin.css" media="all" rel="stylesheet" />
-    <script src="//vesterheim.org/assets/js/app.js" async=""></script>
+    <script src="/assets/js/app.js" async=""></script>
     <script src="/assets/js/vendor/photoswipe/photoswipe.min.js" async=""></script>
     <script src="/assets/js/vendor/photoswipe/photoswipe-ui-default.min.js" async=""></script>
     <script src="/assets/js/photoswipe.init.js" async=""></script>
     {% if page.carousel__include %}<meta name="swipejs" content="/assets/js/swipe.js" />{% endif %}
     <script>!function(a){"use strict";function l(b){var c=a.document.getElementsByTagName("script")[0],d=a.document.createElement("script");return d.src=b,d.async=!0,c.parentNode.insertBefore(d,c),d}function m(b,c,d){function h(){for(var a,c=0;c<g.length;c++)g[c].href&&g[c].href.indexOf(b)>-1&&(a=!0);a?e.media=d||"all":setTimeout(h)}var e=a.document.createElement("link"),f=c||a.document.getElementsByTagName("script")[0],g=a.document.styleSheets;return e.rel="stylesheet",e.href=b,e.media="only x",f.parentNode.insertBefore(e,f),h(),e}function n(b){for(var d,c=a.document.getElementsByTagName("meta"),e=0;e<c.length;e++)if(c[e].name&&c[e].name===b){d=c[e];break}return d}function p(b){if(b&&3===b.length){var d=!(!c.createElementNS||!c.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect||!document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image","1.1")||a.opera&&-1===navigator.userAgent.indexOf("Chrome")||-1!==navigator.userAgent.indexOf("Series40")),e=function(a){var e=c.createElement("link"),f=c.getElementsByTagName("script")[0];e.rel="stylesheet",e.href=b[a&&d?0:a?1:2],f.parentNode.insertBefore(e,f)},f=new a.Image;f.onerror=function(){e(!1)},f.onload=function(){e(1===f.width&&1===f.height)},f.src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="}}var c=a.document,f=(c.documentElement,c.head||c.getElementsByTagName("head")[0],"fulljs"),g="swipejs",h="fontcss",i="svgcss",j="pngcss",o=n(h);o&&m(o.content);var q=n(i),r=n(j),s=n(h);q&&r&&s&&p([q.content,r.content,s.content]);var o=n(h);if(o&&m(o.content),"querySelector"in c){var t=n(f);t&&l(t.content);var u=n(g);u&&l(u.content)}}(this);</script>
     {% include global/google-analytics.html %}
-    <!--[if lt IE 9]><script src="//vesterheim.org/assets/js/ltie9.js"></script><![endif]-->
+    <!--[if lt IE 9]><script src="/assets/js/ltie9.js"></script><![endif]-->
  {% comment %}
  <!-- Don't use until we can *not* cdnify these urls -->
-    <link rel="apple-touch-icon" sizes="57x57" href=//vesterheim.org/apple-touch-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="114x114" href=//vesterheim.org/apple-touch-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="72x72" href=//vesterheim.org/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="144x144" href=//vesterheim.org/apple-touch-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="60x60" href=//vesterheim.org/apple-touch-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="120x120" href=//vesterheim.org/apple-touch-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="76x76" href=//vesterheim.org/apple-touch-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="152x152" href=//vesterheim.org/apple-touch-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href=//vesterheim.org/apple-touch-icon-180x180.png">
-    <link rel="icon" type="image/png" href=//vesterheim.org/favicon-192x192.png" sizes="192x192">
-    <link rel="icon" type="image/png" href=//vesterheim.org/favicon-160x160.png" sizes="160x160">
-    <link rel="icon" type="image/png" href=//vesterheim.org/favicon-96x96.png" sizes="96x96">
-    <link rel="icon" type="image/png" href=//vesterheim.org/favicon-16x16.png" sizes="16x16">
-    <link rel="icon" type="image/png" href=//vesterheim.org/favicon-32x32.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="57x57" href=/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href=/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href=/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href=/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href=/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href=/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href=/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href=/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href=/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href=/favicon-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href=/favicon-160x160.png" sizes="160x160">
+    <link rel="icon" type="image/png" href=/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href=/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href=/favicon-32x32.png" sizes="32x32">
     <meta name="msapplication-TileColor" content="#dd5d2d">
-    <meta name="msapplication-TileImage" content="//vesterheim.org/mstile-144x144.png">
+    <meta name="msapplication-TileImage" content="/mstile-144x144.png">
 {% endcomment %}
 </head>

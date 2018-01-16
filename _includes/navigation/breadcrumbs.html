@@ -20,10 +20,10 @@
 {% for ancestor in ancestors reversed %}
 	{% if ancestor == '/' %}
 		{% assign title = 'Gold Medalist Portfolio' %}
-		{% assign url = '/' %}	
+		{% assign url = '/' %}
 	{% elsif ancestor == '//vesterheim.org/' %}
 		{% assign title = 'Home' %}
-		{% assign url = '//vesterheim.org/' %}	
+		{% assign url = '//vesterheim.org/' %}
 	{% else %}
 		{% comment %}
 		{% assign node = site.data.auto_nav | where: 'url', ancestor | first %}
